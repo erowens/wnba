@@ -1,0 +1,982 @@
+,birthdate,college,draft_pos,draft_year,height,player_id,position,weight,country_fixed,name
+0,1963-04-14,USC,,,5.833333333333333,coopecy01w,Guard,150.0,us,Cynthia Cooper
+1,1975-02-10,USC,1.0,1997.0,6.166666666666667,thompti01w,Forward,178.0,us,Tina Thompson
+2,1969-04-11,,,,5.916666666666667,arcaija01w,Guard,147.0,br,Janeth Arcain
+3,1968-10-14,South Florida,,,6.083333333333333,guytowa01w,Center,178.0,us,Wanda Guyton
+4,1967-01-18,SW Louisiana,,,5.416666666666667,perroki01w,Guard,130.0,us,Kim Perrot
+5,1973-04-26,Tennessee,,,5.583333333333333,wooslti01w,Guard,132.0,,Tiffany Woosley
+6,1962-12-03,Florida,16.0,1997.0,6.166666666666667,jacksta01w,Forward-Center,190.0,us,Tammy Jackson
+7,1965-03-12,Texas,,,6.0,harrifr01w,Guard-Forward,153.0,us,Fran Harris
+8,1966-03-16,Texas,32.0,1997.0,,pollica01w,Forward,,it,Catarina Pollini
+9,1974-08-21,,,,,gaypi01w,Guard-Forward,,,Pietra Gay
+10,1973-09-27,Penn State,20.0,1997.0,5.166666666666667,nichoti01w,Guard,146.0,,Tina Nicholson
+11,1972-05-23,Colorado,,,6.416666666666667,fijalis01w,Forward-Center,200.0,fr,Isabelle Fijalkowski
+12,1973-06-21,Florida,13.0,1997.0,5.833333333333333,jonesme01w,Guard,147.0,us,Merlakia Jones
+13,1966-03-06,Iowa,,,5.75,edwarmi01w,Guard,150.0,,Michelle Edwards
+14,1972-12-03,,4.0,1997.0,6.25,nemcoev01w,Forward,178.0,cz,Eva Nemcova
+15,1959-08-12,Kansas,,,6.0,woodaly01w,Guard,160.0,us,Lynette Woodard
+16,1962-06-07,Louisiana Tech,,,6.25,braxtja01w,Forward,178.0,us,Janice Braxton
+17,1973-12-20,Virginia As NBA,,,5.666666666666667,bouceje01w,Guard,130.0,us,Jenny Boucek
+18,1974-02-05,Ohio State,,,5.833333333333333,johnsad01w,Guard,154.0,,Adrienne Johnson
+19,1972-05-05,Furman,,,6.166666666666667,brownru01w,Forward,175.0,us,Rushia Brown
+20,1973-10-06,Connecticut,,,6.333333333333333,lobore01w,Center,185.0,us,Rebecca Lobo
+21,1965-12-08,Louisiana Tech,,,5.666666666666667,weathte01w,Guard,161.0,us,Teresa Weatherspoon
+22,1969-07-06,Florida,11.0,1997.0,5.833333333333333,witheso01w,Guard,145.0,us,Sophia Witherspoon
+23,1972-04-15,Louisiana Tech,,,5.75,johnsvi01w,Guard-Forward,150.0,us,Vickie Johnson
+24,1962-11-03,Arizona State,,,6.166666666666667,hamptky01w,Center,210.0,us,Kym Hampton
+25,1975-04-04,Georgia Tech,27.0,1997.0,5.833333333333333,fordki01w,Guard-Forward,153.0,,Kisha Ford
+26,1965-08-04,NC State,22.0,1997.0,6.166666666666667,tricetr01w,Forward-Center,180.0,,Trena Trice
+27,1972-10-29,Vanderbilt,,,5.583333333333333,bladerh01w,Guard,138.0,us,Rhonda Blades
+28,1966-11-26,Rutgers,6.0,1997.0,6.25,wickssu01w,Forward,174.0,,Sue Wicks
+29,1972-07-07,USC,,,6.416666666666667,leslili01w,Center,170.0,us,Lisa Leslie
+30,1966-03-24,Long Beach State,,,5.666666666666667,tolerpe01w,Guard,132.0,,Penny Toler
+31,1975-10-16,Stanford,3.0,1997.0,5.5,widemja01w,Guard,135.0,,Jamila Wideman
+32,1975-12-14,Kansas,14.0,1997.0,5.75,dixonta01w,Guard,148.0,,Tamecka Dixon
+33,1968-11-22,Tennessee,,,6.25,charlda01w,Forward-Center,225.0,us,Daedra Charles
+34,1971-03-17,Maryland,19.0,1997.0,5.833333333333333,colleka01w,Forward,145.0,us,Katrina Colleton
+35,1976-07-27,,,,5.916666666666667,mabikmw01w,Guard,165.0,cd,Mwadi Mabika
+36,1967-03-07,,,,6.666666666666667,zhengha01w,Center,254.0,cn,Haixia Zheng
+37,1969-07-27,Alabama,,,6.083333333333333,burgeli01w,Forward,173.0,us,Linda Burgess
+38,1971-10-10,Lamar,30.0,1997.0,,ganttr01w,Center,,,Travesa Gant
+39,1969-10-20,Auburn,18.0,1997.0,5.5,tremich01w,Guard,142.0,us,Chantel Tremitiere
+40,1967-05-27,Auburn,,,5.75,boltoru01w,Guard,150.0,us,Ruthie Bolton
+41,1967-04-27,Tennessee,,,6.0,gordobr01w,Forward,172.0,us,Bridgette Gordon
+42,1968-03-17,Hawaii,,,,mosleju01w,Forward,,,Judy Mosley-McAfee
+43,1962-12-01,USC,2.0,1997.0,6.25,mcgeepa01w,Forward-Center,180.0,us,Pamela McGee
+44,1970-04-27,,,,5.75,hagiwmi01w,Guard,160.0,jp,Mikiko Hagiwara
+45,1975-09-27,George Washington,31.0,1997.0,6.166666666666667,abrahta01w,Center,190.0,vi,Tajama Abraham
+46,1973-12-05,Purdue,,,6.0,yasenco01w,Guard,160.0,us,Corissa Yasen
+47,1975-09-16,Howard,15.0,1997.0,6.25,gravede01w,Center,212.0,,Denique Graves
+48,1973-08-12,DePaul,,,5.916666666666667,byearla01w,Guard-Forward,206.0,us,Latasha Byears
+49,1970-04-02,Virginia,5.0,1997.0,5.5,reissta01w,Guard,129.0,,Tammi Reiss
+50,1974-08-12,Virginia,,,6.166666666666667,palmewe01w,Forward,165.0,us,Wendy Palmer
+51,1970-09-12,Georgia,,,5.833333333333333,groomla01w,Forward,160.0,us,Lady Grooms
+52,1965-04-10,Vanderbilt,,,6.083333333333333,bookeka01w,Center,170.0,us,Karen Booker
+53,1972-01-03,Georgia,,,6.083333333333333,cartede01w,Guard-Forward,185.0,,Deborah Carter
+54,1972-01-28,,,,6.416666666666667,baranel01w,Forward,182.0,kg,Elena Baranova
+55,1970-08-16,Tennessee,,,5.833333333333333,headde01w,Guard,175.0,,Dena Head
+56,1974-10-14,DePaul,28.0,1997.0,5.5,williki01w,Guard,136.0,,Kim Williams
+57,1971-12-02,Maryland,12.0,1997.0,6.333333333333333,hicksje01w,Center-Forward,188.0,,Jessie Hicks
+58,1967-11-25,NC State,,,5.833333333333333,stinsan01w,Guard,158.0,,Andrea Stinson
+59,1974-11-23,Virginia,7.0,1997.0,5.583333333333333,suberto01w,Guard,137.0,,Tora Suber
+60,1967-10-04,Maryland,,,6.25,bullevi01w,Forward,185.0,us,Vicky Bullett
+61,1969-10-13,NC State,,,6.166666666666667,mapprh01w,Center,190.0,,Rhonda Mapp
+62,1972-09-23,Louisiana Tech,23.0,1997.0,,willide01w,Guard,,,Debra Williams
+63,1969-01-25,,,,,moorepe01w,Forward,,,Penny Moore
+64,1969-03-20,NC State,10.0,1997.0,6.25,mannish01w,Forward-Center,186.0,,Sharon Manning
+65,1970-06-03,Mercer,26.0,1997.0,6.166666666666667,congran01w,Forward-Center,183.0,gb,Andrea Congreaves
+66,1968-11-18,,,,6.083333333333333,vukadmi01w,Guard,150.0,,Milica Vukadinovic
+67,1973-07-08,Northeastern,,,6.083333333333333,artiska01w,Forward,155.0,,Katasha Artis
+68,1965-06-28,,,,5.583333333333333,timmsmi01w,Guard,132.0,au,Michele Timms
+69,1971-10-16,Iowa,8.0,1997.0,6.083333333333333,fosteto01w,Forward-Center,175.0,,Toni Foster
+70,1971-01-01,Florida,,,5.75,pettibr01w,Guard,150.0,us,Bridget Pettis
+71,1964-06-13,Mississippi,,,6.25,gilloje01w,Forward-Center,180.0,us,Jennifer Gillom
+72,1972-04-21,Iowa,9.0,1997.0,6.0,jacksti01w,Forward,148.0,,Tia Jackson
+73,1975-06-26,NC State,24.0,1997.0,5.833333333333333,webbum01w,Guard-Forward,162.0,,Umeki Webb
+74,1958-07-01,Old Dominion,,,5.833333333333333,liebena01w,Guard,150.0,us,Nancy Lieberman
+75,1970-07-08,,,,6.416666666666667,askamma01w,Center,198.0,de,Marlies Askamp
+76,1970-12-21,Arizona State,25.0,1997.0,,ambermo01w,Forward,,,Monique Ambers
+77,1974-07-23,Auburn,,,5.916666666666667,willita01w,Guard,170.0,,Tara Williams
+78,1960-12-06,,,,,perazja01w,Guard-Forward,,rs,Jasmina Perazic-Gipe
+79,1972-04-11,Wake Forest,,,5.25,levesni01w,Guard,115.0,,Nicole Levesque
+80,1971-11-12,Virginia,,,6.416666666666667,burgehe01w,Forward-Center,185.0,us,Heidi Burge
+81,1975-08-12,Colorado,21.0,1997.0,6.25,scottra01w,Forward-Center,169.0,,Raegan Scott
+82,1974-04-07,New Mexico State,29.0,1997.0,,maxwean01w,Forward,,,Anita Maxwell
+83,1974-07-01,Mississippi,,,6.0,mooreyo01w,Forward-Center,175.0,us,Yolanda Moore
+84,1975-04-12,,,,,alberma01w,Guard,,us,Marcie Alberts
+85,1975-08-25,,,,,tutermo01w,Guard,,,Molly Tuter
+86,1963-10-14,,,,,angelyv01w,Guard,,,Yvette Angel
+87,1974-03-18,Washington,,,5.666666666666667,savasla01w,Guard,135.0,fr,Laure Savasta
+88,1974-06-12,Montana,,,6.083333333333333,kossgr01w,Forward,145.0,,Greta Koss
+89,1971-08-11,,,,,becenry01w,Guard,,us,Ryneldi Becenti
+90,1974-06-21,Mars Hill,,,6.166666666666667,hopsosu01w,Forward,175.0,,Susie Hopson-Shelton
+91,1971-01-01,,,,,clarkma01w,Forward-Center,,,Margold Clark
+92,1975-03-07,Texas,,,5.833333333333333,viglida01w,Guard,157.0,,Danielle Viglione
+93,1975-09-18,,,,,compame01w,Guard,,nz,Megan Compain
+94,1971-03-25,Texas Tech,,,6.0,swoopsh01w,Forward-Guard,145.0,us,Sheryl Swoopes
+95,1962-10-29,Alabama,,,5.916666666666667,crumpca01w,Guard,175.0,,Cassandra Crumpton-Moorer
+96,1970-12-29,,,,,gessiki01w,Forward,,,Kim Gessig
+97,1971-12-17,Tennessee,,,5.916666666666667,mccrani01w,Guard,158.0,us,Nikki McCray
+98,1973-12-02,,,,6.416666666666667,santoal01w,Center,181.0,br,Alessandra Santos de Oliveira
+99,1976-01-14,Connecticut,13.0,1998.0,5.5,williri01w,Guard,135.0,,Rita Williams
+100,1975-09-18,Florida,3.0,1998.0,6.166666666666667,pagemu01w,Forward,160.0,us,Murriel Page
+101,1969-04-24,,,,,shulead01w,Guard,,,Adrienne Shuler
+102,1974-12-21,George Mason,,,5.75,chacoke01w,Guard,151.0,,Keri Chaconas
+103,1974-11-22,,,,,sobrale01w,Forward,,br,Leila Sobral
+104,1976-11-01,North Carolina,7.0,1998.0,5.916666666666667,reidtr01w,Forward,150.0,,Tracy Reid
+105,1975-08-14,Arkansas,17.0,1998.0,5.583333333333333,smithch01w,Guard,141.0,,Christy Smith
+106,1976-03-09,Maryland,37.0,1998.0,5.75,chaseso01w,Guard,150.0,us,Sonia Chase
+107,1975-11-06,Michigan,27.0,1998.0,6.25,johnspo01w,Center,165.0,,Pollyanna Johns Kimbrough
+108,1969-03-22,Florida State,,,6.083333333333333,paschti01w,Forward,165.0,,Tia Paschal
+109,1971-07-17,Florida International,29.0,1998.0,,branzal01w,Forward,,bg,Albena Branzova
+110,1971-01-17,Notre Dame,,,5.5,washico01w,Guard,138.0,,Coquese Washington
+111,1976-06-30,Texas Tech,9.0,1998.0,6.083333333333333,thompal01w,Forward,180.0,us,Alicia Thompson
+112,1966-07-29,Penn State,16.0,1998.0,,mcconsu01w,Guard,,us,Suzie McConnell Serio
+113,1975-12-23,Maine,6.0,1998.0,5.75,blodgci01w,Guard,130.0,us,Cindy Blodgett
+114,1972-07-19,,,,5.583333333333333,beviltu01w,Guard,145.0,au,Tully Bevilaqua
+115,1973-02-08,,,,6.083333333333333,brogami01w,Forward,177.0,au,Michelle Brogan
+116,1977-02-17,Southern Mississippi,28.0,1998.0,6.083333333333333,reedbr01w,Forward,168.0,,Brandy Reed
+117,1971-07-16,,18.0,1998.0,6.0,kukloan01w,Guard-Forward,150.0,,Andrea Kuklova
+118,1975-03-04,,,,5.333333333333333,harrokr01w,Guard,139.0,au,Kristi Harrower
+119,1979-01-23,,8.0,1998.0,6.666666666666667,stepama01w,Center,187.0,ru,Maria Stepanova
+120,1974-09-18,Old Dominion,2.0,1998.0,5.916666666666667,penicti01w,Guard,146.0,pt,Ticha Penicheiro
+121,1977-04-01,Iowa,12.0,1998.0,6.25,smithta01w,Center,158.0,us,Tangela Smith
+122,1968-04-28,Iowa,,,5.75,pricefr01w,Guard,178.0,,Franthea Price
+123,1977-02-03,Arizona,32.0,1998.0,5.916666666666667,barnead01w,Forward,165.0,us,Adia Barnes
+124,1975-12-27,Tennessee,,,6.333333333333333,johnsti01w,Center,240.0,,Tiffani Johnson
+125,1976-09-26,Indiana,22.0,1998.0,6.416666666666667,barnequ01w,Center,185.0,us,Quacy Barnes
+126,1976-02-11,Harvard,5.0,1998.0,5.916666666666667,feastal01w,Forward,168.0,,Allison Feaster
+127,1976-04-18,Miami (Fla.),15.0,1998.0,6.083333333333333,blueoc01w,Forward,163.0,us,Octavia Blue
+128,1975-04-25,UC Santa Barbara,,,5.583333333333333,alexaer01w,Guard,140.0,us,Erin Alexander
+129,1968-04-14,UCLA,,,6.25,vanemal01w,Forward-Center,175.0,sr,Sandra Van Embricqs
+130,1974-04-28,,1.0,1998.0,7.166666666666667,dydekma01w,Center,223.0,pl,Margo Dydek
+131,1975-08-17,Memphis,21.0,1998.0,6.083333333333333,johnsla01w,Forward,150.0,,LaTonya Johnson
+132,1976-05-05,Stanford,11.0,1998.0,6.166666666666667,scottol01w,Center,175.0,,Olympia Scott
+133,1975-10-31,,,,6.083333333333333,boydca01w,Forward,172.0,au,Carla Boyd
+134,1967-04-15,,,,6.666666666666667,brcanra01w,Center,198.0,rs,Razija Brcaninovic
+135,1975-03-29,Duquesne,4.0,1998.0,5.75,hledeko01w,Guard,155.0,,Korie Hlede
+136,1965-03-16,Long Beach State,,,6.166666666666667,brownci01w,Forward,183.0,us,Cindy Brown
+137,1968-08-20,,34.0,1998.0,5.583333333333333,brondsa01w,Guard,136.0,au,Sandy Brondello
+138,1968-05-26,,14.0,1998.0,6.083333333333333,spornra01w,Forward,175.0,au,Rachael Sporn
+139,1970-11-30,Emporia State,,,6.0,kausaan01w,Forward,155.0,,Aneta Kausaite
+140,1976-07-25,Florida International,24.0,1998.0,6.333333333333333,branzge01w,Forward,178.0,bg,Gergana Branzova
+141,1964-10-11,USC,40.0,1998.0,6.416666666666667,lambmo01w,Center,206.0,us,Monica Lamb
+142,1976-08-18,,30.0,1998.0,6.083333333333333,valdeam01w,Forward,,es,Amaya Valdemoro
+143,1976-03-10,Old Dominion,20.0,1998.0,6.25,roberny01w,Center,209.0,,Nyree Roberts
+144,1973-02-26,Boise State,31.0,1998.0,5.333333333333333,badertr01w,Guard,125.0,us,Tricia Bader Binford
+145,1968-04-27,UNLV,,,6.25,jordapa01w,Forward-Center,205.0,,Pauline Jordan
+146,1976-06-16,DePaul,,,6.0,udokamf01w,Forward,187.0,us,Mfon Udoka
+147,1972-11-10,Oregon State,26.0,1998.0,6.166666666666667,kostita01w,Forward,163.0,,Tanja Kostic
+148,1971-02-07,,,,6.416666666666667,cebriel01w,Center,190.0,es,Elisabeth Cebrian
+149,1972-12-01,Louisiana Tech,,,6.25,brownla01w,Center,180.0,,La'Shawn Brown
+150,1968-01-13,,,,,bouchke01w,Forward,,ca,Kelly Boucher
+151,1969-12-28,UCLA,25.0,1998.0,,stephre01w,Guard,,,Rehema Stephens
+152,1968-12-06,Cal State Fullerton,,,6.25,rycraeu01w,Center,175.0,,Eugenia Rycraw
+153,1973-05-24,Western Kentucky,,,5.833333333333333,reedmi01w,Guard-Forward,165.0,,Michelle Reed
+154,1976-03-30,Texas,33.0,1998.0,,jacksan01w,Center,,,Angela Jackson
+155,1976-09-30,Iowa,,,5.833333333333333,hamblan01w,Guard-Forward,170.0,,Angie Hamblin
+156,1975-09-28,Iowa,19.0,1998.0,5.583333333333333,domonna01w,Guard,148.0,,Nadine Domond
+157,1970-12-18,Houston,,,6.333333333333333,grahama01w,Center,235.0,,Margo Graham
+158,1975-01-12,Western Kentucky,,,6.166666666666667,johnsle01w,Forward,220.0,,Leslie Johnson
+159,1970-03-01,Florida Atlantic,2.0,1999.0,6.333333333333333,griffyo01w,Center-Forward,175.0,us,Yolanda Griffith
+160,1974-11-02,Georgia,14.0,1999.0,5.666666666666667,hollake01w,Guard,129.0,,Kedra Holland-Corn
+161,1975-07-30,Stanford,26.0,1999.0,6.083333333333333,starbka01w,Forward-Guard,153.0,,Kate Starbird
+162,1971-11-12,Virginia,,,6.416666666666667,burgehe02w,Center,195.0,us,Heather Burge
+163,1977-03-31,Purdue,28.0,1999.0,5.75,figgsuk01w,Guard,142.0,us,Ukari Figgs
+164,1974-09-11,Florida,4.0,1999.0,6.083333333333333,miltode01w,Forward,185.0,us,DeLisha Milton-Jones
+165,1976-10-04,Old Dominion,16.0,1999.0,6.416666666666667,machacl01w,Center-Forward,180.0,,Clarisse Machanguana
+166,1975-06-12,Georgia,40.0,1999.0,6.25,frettla01w,Forward,170.0,,La'Keshia Frett
+167,1972-08-20,,,,5.916666666666667,grubigo01w,Guard,165.0,rs,Gordana Grubin
+168,1976-05-03,NC State,11.0,1999.0,6.25,melvich01w,Center-Forward,185.0,,Chasity Melvin
+169,1975-12-31,Old Dominion,23.0,1999.0,6.0,andrame01w,Forward,169.0,,Mery Andrade
+170,1974-12-31,Georgia,35.0,1999.0,6.25,hendetr01w,Center,200.0,,Tracy Henderson
+171,1975-06-23,Louisiana Tech,,,6.25,burraal01w,Center,218.0,us,Alisa Burras
+172,1975-03-13,Stanford,39.0,1998.0,6.083333333333333,nygaava01w,Forward,175.0,us,Vanessa Nygaard
+173,1977-05-03,Tennessee,47.0,1999.0,,jollyke01w,Guard,,,Kellie Jolly Harper
+174,1975-01-21,,,,,howarje01w,Guard,,,Jennifer Howard
+175,1974-01-22,SE Oklahoma State,6.0,1999.0,5.916666666666667,robincr01w,Forward,155.0,,Crystal Robinson
+176,1977-06-05,Memphis,30.0,1999.0,6.166666666666667,whitmta01w,Forward,215.0,us,Tamika Whitmore
+177,1977-03-11,Colorado State As NBA,,,5.5,hammobe01w,Guard,136.0,us,Becky Hammon
+178,1977-05-10,Duke,18.0,1999.0,6.5,vangomi01w,Center,187.0,,Michele Van Gorp
+179,1969-10-04,Stanford,24.0,1999.0,5.583333333333333,henniso01w,Guard,143.0,,Sonja Henning
+180,1968-04-30,,10.0,1998.0,6.333333333333333,tzekopo01w,Center,189.0,bg,Polina Tzekova
+181,1970-10-20,St. Edward's,32.0,1999.0,6.166666666666667,mcwilta01w,Forward-Center,195.0,,Taj McWilliams-Franklin
+182,1974-08-18,South Carolina,,,5.583333333333333,johnssh01w,Guard,152.0,us,Shannon Johnson
+183,1976-05-10,Connecticut,,,6.0,salesny01w,Forward-Guard,184.0,us,Nykesha Sales
+184,1974-05-05,Vanderbilt,20.0,1999.0,6.0,samsh01w,Guard-Forward,160.0,,Sheri Sam
+185,1970-03-06,Central Florida,8.0,1999.0,6.166666666666667,phillta01w,Forward-Center,200.0,,Tari Phillips
+186,1970-05-04,Virginia,9.0,1999.0,5.5,staleda01w,Guard,134.0,us,Dawn Staley
+187,1973-08-23,North Carolina,33.0,1999.0,6.0,smithch02w,Forward,148.0,,Charlotte Smith
+188,1977-06-20,Purdue,21.0,1999.0,,mccarst01w,Guard-Forward,,,Stephanie White
+189,1976-09-18,Texas Tech,45.0,1999.0,6.166666666666667,brazian01w,Forward,169.0,,Angie Braziel
+190,1973-02-07,Alabama,,,5.75,johnsni01w,Guard,146.0,,Niesa Johnson
+191,1972-06-27,Montana State,,,6.333333333333333,bauerca01w,Center,180.0,,Cass Bauer-Bilodeau
+192,1977-09-09,Tennessee,1.0,1999.0,6.166666666666667,holdsch01w,Forward,172.0,us,Chamique Holdsclaw
+193,1974-12-03,Alabama,13.0,1999.0,6.083333333333333,enissh01w,Forward-Center,185.0,,Shalonda Enis
+194,1971-11-16,Florida International,25.0,1999.0,5.583333333333333,nagyan01w,Guard,147.0,hu,Andrea Nagy
+195,1973-09-15,North Carolina-Charlotte,,,,aldrima01w,Guard,,us,Markita Aldridge
+196,1976-12-21,Louisiana Tech,,,5.75,maxwemo01w,Forward,162.0,,Monica Maxwell
+197,1972-05-18,,,,6.333333333333333,bjedoni01w,Center,190.0,,Nina Bjedov
+198,1973-09-05,,37.0,1999.0,,whittje01w,Center,,au,Jennifer Whittle
+199,1974-05-15,Connecticut,48.0,1999.0,5.5,rizzoje01w,Guard,146.0,,Jennifer Rizzotti
+200,1975-08-15,Connecticut,36.0,1999.0,6.583333333333333,wolteka01w,Center,227.0,us,Kara Wolters
+201,1972-04-09,Stanford,17.0,1999.0,6.166666666666667,whitiva01w,Center-Forward,199.0,,Val Whiting-Raymond
+202,1968-08-31,Stanford,5.0,1999.0,5.666666666666667,azzije01w,Guard,143.0,us,Jennifer Azzi
+203,1975-02-17,,,,5.666666666666667,nevescl01w,Guard,136.0,br,Claudia Neves
+204,1965-05-27,,,,6.083333333333333,torniel01w,Forward,160.0,uz,Elena Tornikidou
+205,1973-11-05,Southern Nazarene,41.0,1999.0,6.25,ndiayas01w,Forward,182.0,sn,Astou Ndiaye-Diatta
+206,1971-09-07,Arkansas State,43.0,1999.0,5.5,tateso01w,Guard,157.0,,Sonja Tate
+207,1968-03-13,Tennessee,7.0,1999.0,5.833333333333333,edwarto01w,Guard,160.0,,Tonya Edwards
+208,1974-06-12,Penn State,49.0,1999.0,6.083333333333333,potthan01w,Forward,191.0,,Angie Potthoff
+209,1965-09-25,Texas,31.0,1999.0,6.166666666666667,lloydan01w,Forward,175.0,us,Andrea Lloyd Curry
+210,1972-07-23,,19.0,1999.0,6.25,fallotr01w,Guard-Forward,165.0,au,Trisha Fallon
+211,1969-03-10,,,,5.583333333333333,burgean01w,Guard,141.0,pg,Annie Burgess
+212,1975-12-19,Stanford,,,6.166666666666667,folklkr01w,Forward,190.0,,Kristin Folkl
+213,1975-05-02,Stanford,,,5.833333333333333,smithch03w,Guard,145.0,,Charmin Smith
+214,1968-11-26,Texas,10.0,1999.0,5.666666666666667,campbed01w,Guard,152.0,,Edna Campbell
+215,1967-06-04,Texas,22.0,1999.0,,daviscl01w,Forward,,us,Clarissa Davis-Wrightsil
+216,1971-01-02,Tennessee,34.0,1999.0,6.083333333333333,harrili01w,Forward,164.0,us,Lisa Harrison
+217,1969-04-28,,,,,langeme01w,Forward-Center,,ca,MerleLynn Lange-Harris
+218,1968-03-06,Tennessee,44.0,1999.0,6.083333333333333,mcgheca01w,Forward,173.0,us,Carla McGhee
+219,1966-10-19,Old Dominion,27.0,1999.0,6.0,goodsad01w,Forward,165.0,us,Adrienne Goodson
+220,1966-07-29,St. Joseph's (PA),15.0,1999.0,5.25,blackde01w,Guard,124.0,,Debbie Black
+221,1970-11-30,UCLA,3.0,1999.0,6.166666666666667,willina01w,Center,210.0,us,Natalie Williams
+222,1976-03-13,Florida International,39.0,1999.0,5.833333333333333,ivanyda01w,Guard,135.0,,Dalma Ivanyi
+223,1969-09-30,,,,5.666666666666667,larakr01w,Guard,130.0,pl,Krystyna Lara
+224,1974-02-20,USC,,,6.416666666666667,campbmi01w,Center,170.0,,Michelle Campbell
+225,1974-06-04,Ohio State,,,5.916666666666667,smithka01w,Guard,175.0,us,Katie Smith
+226,1967-02-09,Louisiana Tech,,,6.25,lacyve01w,Center,234.0,us,Venus Lacy
+227,1977-02-06,Louisiana Tech,46.0,1999.0,5.916666666666667,wilsoam01w,Forward,176.0,,Amanda Wilson
+228,1977-03-02,Alabama,29.0,1999.0,5.75,cantydo01w,Guard,166.0,us,Dominique Canty
+229,1961-05-14,Kentucky,,,6.083333333333333,stillva01w,Forward,155.0,,Valerie Still
+230,1977-06-03,Virginia,,,6.0,brownle01w,Forward,165.0,,Lesley Brown
+231,1975-08-09,Louisiana State,50.0,1999.0,5.666666666666667,powelel01w,Guard,150.0,us,Elaine Powell
+232,1971-04-07,,,,6.25,nikolmi01w,Forward,185.0,,Mila Nikolich
+233,1976-05-06,Stanford,,,6.416666666666667,owenhe01w,Forward-Center,212.0,,Heather Owen
+234,1973-02-28,Kansas,,,6.166666666666667,aycocan01w,Guard,161.0,us,Angela Aycock
+235,1977-07-03,,,,,mahonsh01w,Forward,,,Shea Mahoney
+236,1979-08-23,,45.0,2000.0,5.583333333333333,bibbyje01w,Guard,139.0,,Jessica Bibby
+237,1972-02-11,,,,6.25,ferrama01w,Forward,190.0,es,Marina Ferragut
+238,1976-11-07,Maryland,,,5.75,gibsoke01w,Forward-Guard,137.0,,Kelley Gibson
+239,1976-03-06,Stanford,12.0,2000.0,,mulitna01w,Center,,us,Naomi Mulitauaopele
+240,1975-08-13,Notre Dame,,,6.25,gaithka01w,Center,170.0,,Katryna Gaither
+241,1972-03-22,USC,63.0,2000.0,5.666666666666667,mccrini01w,Guard,125.0,,Nicky McCrimmon
+242,1975-01-13,,,,6.083333333333333,grginve01w,Forward,160.0,,Vedrana Grgin-Fonseca
+243,1977-12-08,Connecticut,31.0,2000.0,6.416666666666667,sauerpa01w,Center,200.0,,Paige Sauer
+244,1969-10-03,Texas,,,6.083333333333333,hallvi01w,Forward,180.0,,Vicki Hall
+245,1978-08-29,Penn State,17.0,2000.0,5.5,darlihe01w,Guard,164.0,us,Helen Darling
+246,1980-10-12,,1.0,2000.0,6.333333333333333,wautean01w,Center,193.0,be,Ann Wauters
+247,1978-04-20,Texas Tech,24.0,2000.0,5.916666666666667,dickeke01w,Forward,165.0,,Keitha Dickerson
+248,1978-06-06,Rice,22.0,2000.0,5.666666666666667,brumfma01w,Guard,133.0,,Marla Brumfield
+249,1976-12-04,Louisiana Tech,6.0,2000.0,5.666666666666667,lennobe01w,Guard,143.0,us,Betty Lennox
+250,1978-06-26,Tulane,5.0,2000.0,5.666666666666667,daleygr01w,Guard,147.0,us,Grace Daley
+251,1974-03-06,Stanford,,,5.666666666666667,payeka01w,Guard,150.0,,Kate Paye
+252,1978-04-17,UCLA,10.0,2000.0,6.166666666666667,martima01w,Center-Forward,174.0,,Maylana Martin
+253,1977-02-15,USC,21.0,2000.0,6.416666666666667,williad01w,Center-Forward,170.0,,Adrian Williams-Strong
+254,1974-07-16,,,,,clearmi01w,Guard,,au,Michelle Cleary
+255,1974-06-27,,,,6.5,sarenra01w,Center,222.0,,Rankica Sarenac
+256,1978-08-29,Michigan,23.0,2000.0,5.833333333333333,thomast01w,Forward,154.0,,Stacey Thomas
+257,1972-09-27,North Carolina,,,6.416666666666667,crawlsy01w,Forward,187.0,,Sylvia Crawley
+258,1973-10-29,Tennessee,,,5.833333333333333,marcimi01w,Guard,154.0,,Michelle Marciniak
+259,1978-10-16,Kansas,7.0,2000.0,6.166666666666667,pridely01w,Guard-Forward,180.0,,Lynn Pride
+260,1977-11-28,Virginia,,,6.25,walkede01w,Forward,191.0,us,DeMya Walker
+261,1972-12-19,,9.0,2000.0,6.333333333333333,vodicka01w,Forward-Center,190.0,cz,Kamila Vodichkova
+262,1977-09-29,Louisiana State,57.0,2000.0,5.833333333333333,hibbeka01w,Guard-Forward,172.0,au,Katrina Hibbert
+263,1973-11-17,Iowa,,,6.333333333333333,edwarsi01w,Center,164.0,,Simone Edwards
+264,1970-07-01,Wisconsin,,,5.583333333333333,threaro01w,Guard,150.0,,Robin Threatt-Elliott
+265,1974-09-01,Kansas,25.0,2000.0,,sampsch01w,Guard,,,Charisse Sampson
+266,1979-01-05,Penn State,32.0,2000.0,6.25,garnean01w,Forward-Center,160.0,,Andrea Garner
+267,1977-11-05,Washington,,,6.083333333333333,reddja01w,Forward,164.0,,Jamie Redd
+268,1978-04-22,UC Santa Barbara,30.0,2000.0,5.416666666666667,clinest01w,Guard,125.0,,Stacy Clinesmith
+269,1967-12-11,Stanford,14.0,2000.0,6.0,stedika01w,Forward,173.0,us,Katy Steding
+270,1975-01-31,,4.0,2000.0,6.416666666666667,dossaci01w,Center,187.0,br,Cintia dos Santos
+271,1975-02-03,Purdue,20.0,2000.0,5.916666666666667,rolanja01w,Forward,168.0,,Jannon Roland
+272,1971-05-11,,,,,gaydeco01w,Guard,,,Cornelia Gayden
+273,1970-08-17,,52.0,2000.0,5.75,hamzoro01w,Guard,148.0,cz,Romana Hamzova
+274,1976-02-29,Alabama,2.0,2000.0,6.25,millsta01w,Center,232.0,,Tausha Mills
+275,1974-05-08,Wisconsin,,,5.583333333333333,anderke01w,Guard,125.0,,Keisha Anderson
+276,1975-06-05,Notre Dame,,,6.0,cunnibe01w,Guard,150.0,,Beth Cunningham
+277,1977-12-30,Florida,18.0,2000.0,,washito01w,Forward,,,Tonya Massaline
+278,1972-05-14,,26.0,2000.0,6.166666666666667,streiju01w,Forward,165.0,,Jurgita Streimikyte
+279,1974-09-07,Seton Hall,,,6.333333333333333,quinnte01w,Forward,165.0,,Texlin Quinney
+280,1966-09-29,,,,,harrido01w,Forward,,,Donna Harrington
+281,1978-08-24,Rutgers,42.0,2000.0,,gilmous01w,Guard,,us,Usha Gilmore
+282,1978-05-16,Kentucky,53.0,2000.0,6.166666666666667,owenssh01w,Forward,175.0,,Shantia Owens
+283,1978-09-13,UNC Charlotte,19.0,2000.0,,jonesja01w,Guard,,,Jameka Jones
+284,1977-10-10,Stanford,40.0,2000.0,5.5,floremi01w,Guard,125.0,,Milena Flores
+285,1977-07-25,NC State,11.0,2000.0,6.5,erbsu01w,Center,240.0,,Summer Erb
+286,1978-03-20,Florida,27.0,2000.0,5.916666666666667,traviti01w,Forward,145.0,us,Tiffany Travis
+287,1971-07-06,Northern Illinois,,,5.666666666666667,hillec01w,Guard,140.0,,E.C. Hill
+288,1972-05-21,Kansas State,56.0,2000.0,5.916666666666667,stiresh01w,Forward,208.0,,Shanele Stires
+289,1976-09-23,Iowa State,35.0,2000.0,5.666666666666667,fresest01w,Guard,126.0,,Stacy Frese
+290,1978-11-01,Michigan State,51.0,2000.0,6.333333333333333,rasmukr01w,Forward,172.0,us,Kristen Rasmussen
+291,1973-05-01,Washington,46.0,2000.0,,banchrh01w,Center,,,Rhonda Banchero
+292,1978-07-01,Texas,3.0,2000.0,5.75,browned01w,Guard-Forward,163.0,us,Edwina Brown
+293,1978-04-22,Louisiana Tech,8.0,2000.0,5.5,jacksta02w,Guard,120.0,,Tamicha Jackson
+294,1977-12-18,,,,6.5,zakalok01w,Center,174.0,,Oksana Zakaluzhnaya
+295,1970-06-02,,16.0,2000.0,6.25,shakiel01w,Center,190.0,tm,Elena Shakirova
+296,1975-08-24,Iowa State,29.0,2000.0,5.833333333333333,francde01w,Forward,193.0,,Desiree Francis
+297,1978-09-12,Maine,,,6.25,cassija01w,Center,187.0,,Jamie Cassidy
+298,1965-11-09,,,,,willibe01w,Guard,,,Beverly Williams
+299,1969-03-31,Purdue,,,5.833333333333333,holmejo01w,Forward,170.0,,Joy Holmes-Harris
+300,1976-04-14,Nebraska,,,5.833333333333333,deforan01w,Guard,160.0,us,Anna DeForge
+301,1978-03-08,Kentucky,,,5.833333333333333,mccaiti01w,Guard,160.0,,Tiffany McCain
+302,1974-12-05,Purdue,,,6.333333333333333,lovelst01w,Center,170.0,,Stacey Lovelace
+303,1975-01-18,Western Kentucky,,,6.25,mcculda01w,Center-Forward,175.0,,Danielle McCulley
+304,1977-06-16,Iowa,38.0,1999.0,6.25,herriam01w,Center,193.0,,Amy Herrig
+305,1989-03-28,Arkansas-Little Rock,25.0,2011.0,6.083333333333333,reedch01w,Forward,155.0,us,Chastity Reed
+306,1976-04-23,Kansas State,13.0,2000.0,6.666666666666667,firsool01w,Center,215.0,,Olga Firsova
+307,1973-08-23,Cincinnati,28.0,2000.0,,slaisma01w,Guard,,,Madinah Slaise
+308,1976-09-10,Tulane,,,6.25,farriba01w,Forward-Center,200.0,,Barbara Farris
+309,1977-07-24,Ohio State,,,6.083333333333333,jonesla01w,Guard-Forward,180.0,,Larecha Jones
+310,1978-03-01,Nebraska,15.0,2000.0,5.75,kubikni01w,Guard,145.0,,Nicole Kubik
+311,1974-02-06,Mississippi State,,,6.0,smithla01w,Guard,150.0,,LaCharlotte Smith
+312,1977-11-23,Miami (Fla.),,,6.166666666666667,hopeky01w,Center,165.0,us,Kym Hope
+313,1978-06-15,Virginia,58.0,2000.0,,robinre01w,Guard,,,Renee Robinson
+314,1978-11-18,,,,,williwe01w,Guard,,us,Wendi Willits
+315,1979-06-09,Missouri,15.0,2001.0,6.083333333333333,lassiam01w,Forward,160.0,,Amanda Lassiter
+316,1973-02-28,,,,,hendene01w,Guard,,,Nekeshia Henderson
+317,1970-11-11,Cal Berkeley,,,6.0,stafftr01w,Forward,160.0,,Trisha Stafford-Odom
+318,1978-10-13,Louisiana State,8.0,2001.0,5.75,ferdima01w,Guard,162.0,,Marie Ferdinand-Harris
+319,1977-11-27,Denver,24.0,2001.0,6.25,pavlimi01w,Forward,175.0,,Michaela Pavlickova
+320,1979-03-04,Iowa,56.0,2001.0,,consuca01w,Guard,,,Cara Consuegra
+321,1981-07-24,,13.0,2001.0,5.833333333333333,vealkr01w,Guard,150.0,au,Kristen Veal
+322,1979-08-21,Texas A&M,27.0,2001.0,5.916666666666667,saundja01w,Forward,145.0,,Jaynetta Saunders
+323,1978-09-06,Georgia,9.0,2001.0,5.75,milleco01w,Guard,140.0,us,Coco Miller
+324,1972-11-23,,,,5.666666666666667,luzhe01w,Guard,144.0,br,Helen Luz
+325,1981-05-24,,11.0,2001.0,6.083333333333333,taylope01w,Forward,165.0,au,Penny Taylor
+326,1978-12-08,Oregon,43.0,2001.0,,wolvean01w,Forward-Center,,,Angelina Wolvert
+327,1979-05-08,NC State,31.0,2001.0,5.833333333333333,lewisty01w,Guard,152.0,,Tynesha Lewis
+328,1977-09-24,Notre Dame,19.0,2001.0,5.583333333333333,iveyni01w,Guard,149.0,,Niele Ivey
+329,1975-11-27,Providence,,,6.083333333333333,malcona01w,Forward,170.0,,Nadine Malcolm
+330,1977-10-14,Connecticut,14.0,2001.0,6.416666666666667,schumke01w,Center,183.0,us,Kelly Schumacher
+331,1979-08-28,Notre Dame,5.0,2001.0,6.416666666666667,rileyru01w,Center,198.0,us,Ruth Riley
+332,1979-06-05,The Master's College,23.0,2001.0,6.25,perpeer01w,Forward,181.0,us,Erin Perperoglou
+333,1979-05-19,Tulane,28.0,2001.0,6.416666666666667,burseja01w,Center,199.0,us,Janell Burse
+334,1979-01-31,Duke,21.0,2001.0,,schwege01w,Guard-Forward,,,Georgia Schweitzer
+335,1978-12-21,Southwest Missouri State,4.0,2001.0,5.666666666666667,stileja01w,Guard,144.0,,Jackie Stiles
+336,1979-02-07,Tennessee,17.0,2001.0,5.75,randase01w,Guard,164.0,,Semeka Randall
+337,1981-05-11,,1.0,2001.0,6.5,jacksla01w,Forward-Center,187.0,au,Lauren Jackson
+338,1979-05-07,Purdue,10.0,2001.0,6.0,douglka01w,Guard-Forward,165.0,us,Katie Douglas
+339,1979-03-16,Kansas,42.0,2001.0,6.0,johnsja01w,Forward,201.0,,Jaclyn Johnson
+340,1974-10-17,,,,,alhalta01w,Forward-Guard,,us,Tawona Alhaleem
+341,1980-03-30,Florida State,26.0,2001.0,6.083333333333333,wyckobr01w,Forward,183.0,us,Brooke Wyckoff
+342,1979-05-17,Xavier (OH),32.0,2001.0,,levanni01w,Guard,,,Nicole Levandusky
+343,1978-09-06,Georgia,2.0,2001.0,5.833333333333333,milleke01w,Guard,140.0,,Kelly Miller
+344,1979-08-25,Georgia,6.0,2001.0,5.75,nolande01w,Guard-Forward,147.0,us,Deanna Nolan
+345,1976-01-20,,22.0,2001.0,5.666666666666667,kingija01w,Guard,150.0,,Jae Kingi-Cross
+346,1979-11-10,,54.0,2001.0,6.25,santoke01w,Forward,188.0,br,Kelly Santos
+347,1977-09-19,,,,6.333333333333333,tuvicsl01w,Center,194.0,rs,Slobodanka Tuvic
+348,1969-01-14,,,,,fordst01w,Forward,,,Stacey Ford
+349,1978-10-28,Penn State,46.0,2001.0,,walsema01w,Forward,,,Maren Walseth
+350,1979-10-03,North Carolina,12.0,2001.0,,barksla01w,Guard,,,LaQuanda Barksdale
+351,1978-01-27,Rutgers,18.0,2001.0,6.333333333333333,suttota01w,Center,199.0,ca,Tammy Sutton-Brown
+352,1978-02-10,Arizona,50.0,2001.0,,bristre01w,Guard,,,Reshea Bristol
+353,1975-05-14,,,,,luckepa01w,Forward,,,Pat Luckey
+354,1978-01-10,,,,6.25,radunha01w,Center,187.0,,Hajdana Radunovic
+355,1969-07-28,Auburn,42.0,1999.0,5.75,youngca01w,Guard,175.0,us,Carolyn Young
+356,1976-10-31,,,,,saureau01w,Guard,,fr,Audrey Sauret
+357,1980-07-09,Connecticut,7.0,2001.0,6.166666666666667,abrossv01w,Forward,169.0,ru,Svetlana Abrosimova
+358,1978-04-06,Chipola/Florida State,37.0,2001.0,,torrele01w,Center,,co,Levys Torres
+359,1980-05-30,,29.0,2001.0,6.0,korstil01w,Guard,160.0,ru,Ilona Korstine
+360,1978-02-25,Oregon,20.0,2001.0,,moweje01w,Center,,us,Jenny Mowe
+361,1978-01-30,,,,6.083333333333333,amachma01w,Forward,175.0,ng,Mactabene Amachree
+362,1979-01-29,Florida,25.0,2001.0,,stockta01w,Forward-Center,,us,Tamara Stocks
+363,1980-05-25,,,,5.833333333333333,lazicka01w,Guard,147.0,,Katarina Lazic
+364,1978-12-06,,,,5.5,moisead01w,Guard,140.0,br,Adriana Moises
+365,1979-02-05,Purdue,16.0,2001.0,,coopeca01w,Center,,,Camille Cooper
+366,1975-02-02,,,,,wynneda01w,Forward,,,Dana Wynne
+367,1979-03-22,North Carolina,5.0,2002.0,6.0,teaslni01w,Guard,169.0,us,Nikki Teasley
+368,1982-03-09,,,,6.416666666666667,desouer01w,Forward-Center,190.0,br,Erika de Souza
+369,1976-10-15,,,,,aguilel01w,Guard,,es,Elisa Aguilar
+370,1980-05-25,Oklahoma,14.0,2002.0,,caufila01w,Guard,,us,LaNeishea Caufield
+371,1981-02-11,Baylor,11.0,2002.0,,crockda01w,Forward,,,Danielle Crockrom
+372,1979-12-23,Howard,27.0,2002.0,6.25,gardnan01w,Forward-Center,190.0,,Andrea Gardner
+373,1980-04-12,Connecticut,6.0,2002.0,6.166666666666667,willita02w,Forward,195.0,us,Tamika Williams
+374,1979-12-07,South Carolina,9.0,2002.0,5.833333333333333,gortmsh01w,Guard,158.0,,Shaunzinski Gortman
+375,1980-03-20,Tennessee,10.0,2002.0,6.416666666666667,snowmi01w,Center,145.0,us,Michelle Snow
+376,1980-04-11,Wisconsin,15.0,2002.0,5.833333333333333,mooreta01w,Guard,176.0,,Tamara Moore
+377,1982-03-13,,,,6.0,castriz01w,Forward-Guard,140.0,br,Iziane Castro Marques
+378,1974-09-08,,,,,bonfisu01w,Guard,,it,Susanna Bonfiglio
+379,1980-11-16,UC Santa Barbara,40.0,2002.0,6.166666666666667,chriska01w,Forward,171.0,us,Kayte Christensen
+380,1979-06-23,UNLV,,,6.166666666666667,frohlli01w,Forward-Center,185.0,de,Linda Frohlich
+381,1982-08-26,,,,6.333333333333333,ngoyibe01w,Center,195.0,cd,Bernadette Ngoyisa
+382,1977-12-29,Washington,,,6.0,hallam01w,Forward,186.0,ca,Amber Hall
+383,1979-09-22,Connecticut,2.0,2002.0,6.083333333333333,cashsw01w,Forward,171.0,us,Swin Cash
+384,1976-09-03,,,,,garcibe01w,Guard,,es,Begona Garcia
+385,1979-09-10,Louisiana Tech,20.0,2002.0,6.25,walkeay01w,Forward,143.0,us,Ayana Walker
+386,1979-11-04,Indiana,21.0,2002.0,,chapmji01w,Center,,,Jill Chapman-Daily
+387,1979-07-14,DePaul,18.0,2002.0,5.916666666666667,willile02w,Guard-Forward,155.0,,Lenae Williams
+388,1980-10-16,Connecticut,1.0,2002.0,5.75,birdsu01w,Guard,150.0,us,Sue Bird
+389,1980-02-03,Oregon State,28.0,2002.0,5.75,raglafe01w,Guard,135.0,,Felicia Ragland
+390,1979-07-10,Louisiana Tech,35.0,2002.0,,lewista01w,Forward-Center,,,Takeisha Lewis
+391,1979-09-21,Florida,24.0,2002.0,5.25,mccaibr01w,Guard,135.0,us,Brandi McCain
+392,1979-12-15,Alabama-Birmingham,8.0,2002.0,6.166666666666667,jacksde01w,Forward,155.0,us,Deanna Jackson
+393,1979-07-21,Tennessee,3.0,2001.0,6.083333333333333,catchta01w,Forward,167.0,us,Tamika Catchings
+394,1979-01-21,Vanderbilt,17.0,2002.0,,klimezu01w,Forward,,cz,Zuzi Klimesova
+395,1979-09-05,Oklahoma,3.0,2002.0,6.0,dalesst01w,Forward,155.0,ca,Stacey Dales
+396,1980-08-01,Connecticut,4.0,2002.0,6.166666666666667,jonesas01w,Forward,187.0,us,Asjha Jones
+397,1980-06-02,Stanford,29.0,2002.0,6.083333333333333,yamasli01w,Guard-Forward,185.0,us,Lindsey Yamasaki
+398,1978-03-31,Old Dominion,19.0,2002.0,6.166666666666667,berthlu01w,Forward-Center,188.0,,Lucienne Berthieu
+399,1978-04-25,Old Dominion,12.0,2002.0,6.166666666666667,maigaha01w,Forward,167.0,ml,Hamchetou Maiga-Ba
+400,1979-11-06,,,,,mooreja01w,Center,,,Jackie Moore
+401,1978-05-23,Stanford,53.0,2001.0,,moosca01w,Forward-Center,,us,Carolyn Moos
+402,1979-01-13,Georgia,,,5.833333333333333,brownki01w,Guard,134.0,us,Kiesha Brown
+403,1980-01-27,Rutgers,23.0,2002.0,,cunnida01w,Forward,,,Davalyn Cunningham
+404,1980-07-21,Baylor,7.0,2002.0,5.583333333333333,lambesh01w,Guard,125.0,us,Sheila Lambert
+405,1974-10-12,,8.0,2003.0,6.083333333333333,sunmiju01w,Center,168.0,kr,Jung Sun-Min
+406,1981-02-14,Tennessee,5.0,2003.0,5.75,lawsoka01w,Guard,150.0,us,Kara Lawson
+407,1981-08-31,Texas Tech,4.0,2003.0,6.166666666666667,pierspl01w,Forward,195.0,us,Plenette Pierson
+408,1980-06-16,,,,6.333333333333333,yilmane01w,Center,190.0,bg,Nevriye Yilmaz
+409,1976-05-10,Kansas,,,6.333333333333333,sanfona01w,Center-Forward,190.0,us,Nakia Sanford
+410,1980-07-18,Louisiana State,7.0,2003.0,6.166666666666667,smithai01w,Forward,173.0,us,Aiysha Smith
+411,1980-04-14,Oregon,30.0,2003.0,5.5,willish01w,Guard,135.0,,Shaquala Williams
+412,1981-04-13,Ohio State,13.0,2003.0,,colemco01w,Forward,,,Courtney Coleman
+413,1981-01-22,Vanderbilt,2.0,2003.0,6.5,anderch01w,Center,190.0,us,Chantelle Anderson
+414,1964-07-09,Georgia,14.0,2003.0,,edwarte01w,Guard-Forward,,us,Teresa Edwards
+415,1980-10-23,Tennessee,6.0,2003.0,6.25,jacksgw01w,Forward,182.0,,Gwen Jackson
+416,1981-07-06,Mississippi State,1.0,2003.0,6.166666666666667,thomala01w,Forward,165.0,us,LaToya Thomas
+417,1981-03-19,,,,,johnsch01w,Center,,,Chandra Johnson
+418,1980-10-21,North Carolina,11.0,2003.0,5.75,brownco01w,Guard,150.0,,Coretta Brown
+419,1980-10-05,Tulane,,,6.25,mckivte01w,Center,220.0,us,Teana Miller
+420,1981-04-18,Cincinnati,26.0,2003.0,5.75,sharpkb01w,Guard,149.0,,K.B. Sharp
+421,1981-05-19,Brigham Young,17.0,2003.0,5.75,thorner01w,Guard,145.0,us,Erin Thorn
+422,1981-06-06,Louisiana Tech,3.0,2003.0,6.25,fordch01w,Forward,195.0,us,Cheryl Ford
+423,1980-12-17,South Carolina,16.0,2003.0,6.333333333333333,ujhelpe01w,Center,200.0,,Petra Ujhelyi
+424,1980-06-06,,21.0,2003.0,5.75,zirkozu01w,Guard,145.0,sk,Zuzana Zirkova
+425,1981-05-06,Texas,,,5.75,dillata01w,Guard,154.0,,Tai Dillard
+426,1977-02-21,,,,,umohit01w,Guard,,us,Itoro Umoh-Coleman
+427,1979-02-28,Syracuse,,,6.25,azizle01w,Forward,177.0,,Leigh Aziz
+428,1979-09-10,South Carolina,9.0,2003.0,6.0,pennjo01w,Forward,160.0,us,Jocelyn Penn
+429,1979-07-09,Oregon,41.0,2002.0,5.333333333333333,curryed01w,Guard,138.0,,Edniesha Curry
+430,1981-09-02,Georgia Tech,24.0,2003.0,,malloso01w,Center,,,Sonja Mallory
+431,1981-05-24,,,,,adamsjo01w,Center,,us,Jordan Adams
+432,1979-10-20,Florida International,30.0,2002.0,6.083333333333333,slavtge01w,Guard,163.0,,Gergana Slavtcheva
+433,1980-08-27,Stanford,,,6.166666666666667,donapbe01w,Forward-Center,195.0,,Bethany Donaphin
+434,1982-10-21,,,,6.166666666666667,bibrzag01w,Guard-Forward,168.0,,Agnieszka Bibrzycka
+435,1982-02-04,Auburn,,,6.25,stevema01w,Forward-Center,166.0,,Mandisa Stevenson
+436,1981-12-11,Georgetown,10.0,2004.0,6.166666666666667,brunsre01w,Forward,181.0,us,Rebekkah Brunson
+437,1982-06-11,Connecticut,1.0,2004.0,6.0,tauradi01w,Guard,163.0,us,Diana Taurasi
+438,1981-09-21,Purdue,13.0,2004.0,5.833333333333333,wrighsh01w,Forward,155.0,,Shereka Wright
+439,1982-03-13,Kansas State,6.0,2004.0,6.416666666666667,ohldeni01w,Forward-Center,189.0,us,Nicole Ohlde
+440,1982-03-10,Tennessee,20.0,2004.0,5.916666666666667,buttsta01w,Forward,155.0,,Tasha Butts
+441,1980-07-01,Tulane,,,6.25,slauggw01w,Forward,181.0,,Gwen Slaughter
+442,1982-06-22,Stanford,3.0,2004.0,6.166666666666667,powelni01w,Forward,170.0,us,Nicole Powell
+443,1982-02-02,Penn State,18.0,2004.0,6.0,mazzake01w,Guard,155.0,us,Kelly Mazzante
+444,1980-04-03,Louisiana State,20.0,2003.0,5.916666666666667,whitede01w,Forward,180.0,,DeTrina White
+445,1982-02-15,Arkansas,5.0,2004.0,6.25,chrissh01w,Guard,192.0,us,Shameka Christon
+446,1982-08-27,USC,9.0,2004.0,6.166666666666667,hoffmeb01w,Forward,215.0,us,Ebony Hoffman
+447,1982-05-09,Minnesota,4.0,2004.0,5.75,whaleli01w,Guard,170.0,us,Lindsay Whalen
+448,1982-07-10,Duquesne,29.0,2004.0,5.833333333333333,futreca01w,Guard,154.0,,Candace Futrell
+449,1982-04-16,Penn State,16.0,2004.0,6.083333333333333,brungje01w,Forward,165.0,,Jessica Brungo
+450,1981-02-10,Auburn,,,6.0,willile01w,Forward,200.0,,Le'coe Willingham
+451,1982-03-29,George Mason,,,5.833333333333333,derevje01w,Guard,140.0,,Jennifer Derevjanik
+452,1982-06-29,Boston College,33.0,2004.0,5.666666666666667,jacobam01w,Guard,152.0,us,Amber Jacobs
+453,1981-12-06,Duke,11.0,2004.0,6.416666666666667,tilliic01w,Forward-Center,165.0,,Iciss Tillis
+454,1982-03-25,Houston,8.0,2004.0,5.75,jonesch01w,Guard,150.0,us,Chandi Jones
+455,1982-08-14,Georgia,12.0,2004.0,6.333333333333333,thomach01w,Forward-Center,198.0,,Christi Thomas
+456,1982-07-19,Louisiana State,25.0,2004.0,5.75,hodgedo01w,Guard,160.0,us,Doneeka Lewis
+457,1980-09-30,,,,6.0,mascira01w,Forward,169.0,,Raffaella Masciadri
+458,1979-05-24,,,,6.083333333333333,macchla01w,Forward,169.0,,Laura Macchi
+459,1980-03-24,UCLA,,,5.75,grecomi01w,Guard,145.0,,Michelle Greco
+460,1982-05-14,Duke,2.0,2004.0,5.916666666666667,beardal01w,Guard-Forward,160.0,us,Alana Beard
+461,1981-01-11,NC State,15.0,2004.0,6.25,choneka01w,Center,180.0,,Kaayla Chones
+462,1982-01-21,Texas,37.0,2004.0,6.083333333333333,stephst01w,Center,205.0,,Stacy Stephens
+463,1982-01-11,Texas A&M,34.0,2004.0,5.75,willito01w,Guard,145.0,,Toccara Williams
+464,1982-06-05,Florida,7.0,2004.0,6.333333333333333,haydeva01w,Center,240.0,us,Vanessa Hayden
+465,1981-05-20,UC Santa Barbara,26.0,2004.0,6.666666666666667,tayloli01w,Center,200.0,us,Lindsay Taylor
+466,1982-01-09,,,,5.916666666666667,mendigi01w,Guard,174.0,,Giuliana Mendiola
+467,1982-08-12,Tennessee,14.0,2004.0,6.333333333333333,robinas01w,Center,180.0,,Ashley Robinson
+468,1976-11-28,,,,5.833333333333333,sanchis01w,Guard,152.0,es,Isabel Sanchez
+469,1982-06-21,Louisiana Tech,17.0,2004.0,6.166666666666667,carteam01w,Forward,179.0,,Amisha Carter
+470,1982-06-29,,,,6.333333333333333,bjorkte01w,Center,175.0,,Tera Bjorklund
+471,1979-08-23,Louisiana Tech,19.0,2004.0,6.166666666666667,friertr01w,Forward,186.0,,Trina Frierson
+472,1982-11-28,Old Dominion,,,6.166666666666667,cokermo01w,Forward-Center,180.0,,Monique Coker
+473,1982-02-23,Texas Tech,35.0,2004.0,5.666666666666667,perkiji01w,Guard,165.0,,Jia Perkins
+474,1982-09-06,Louisiana State,6.0,2005.0,5.25,johnste01w,Guard,142.0,us,Temeka Johnson
+475,1982-05-13,Kansas State,,,5.666666666666667,koehnla01w,Guard,145.0,us,Laurie Koehn
+476,1982-11-03,Minnesota,1.0,2005.0,6.166666666666667,mccarja01w,Forward-Center,225.0,us,Janel McCarville
+477,1981-03-12,Texas,31.0,2005.0,5.5,careyja01w,Guard,135.0,,Jamie Carey
+478,1983-02-18,Georgia,7.0,2005.0,6.5,braxtka01w,Center-Forward,225.0,us,Kara Braxton
+479,1983-02-17,Rutgers,22.0,2005.0,5.916666666666667,newtoch01w,Guard,154.0,,Chelsea Newton
+480,1981-06-03,,,,5.916666666666667,miaomi01w,Guard,154.0,cn,Miao Lijie
+481,1981-01-10,,,,5.916666666666667,snellbe01w,Guard,165.0,au,Belinda Snell
+482,1983-07-21,Illinois,18.0,2005.0,6.0,willian01w,Guard,149.0,,Angelina Williams
+483,1982-02-23,Texas Christian,3.0,2005.0,6.25,irvinsa01w,Forward,185.0,us,Sandora Irvin
+484,1983-09-20,Houston,5.0,2005.0,6.416666666666667,lyttlsa01w,Forward,175.0,vc,Sancho Lyttle
+485,1982-07-19,Florida State,15.0,2005.0,5.916666666666667,hodgero01w,Guard,165.0,us,Roneeka Hodges
+486,1982-11-17,Liberty,8.0,2005.0,6.666666666666667,matteka01w,Center,240.0,us,Katie Mattera
+487,1982-12-16,Kansas State,4.0,2005.0,5.916666666666667,weckeke01w,Forward,172.0,,Kendra Wecker
+488,1983-08-09,Tennessee,14.0,2005.0,6.166666666666667,elysh01w,Forward,182.0,,Shyra Ely-Gash
+489,1980-04-12,Valparaiso,,,6.416666666666667,nieuwma01w,Center,180.0,,Marlous Nieuwveen
+490,1983-11-29,Penn State,12.0,2005.0,5.916666666666667,wrighta01w,Guard,166.0,us,Tanisha Wright
+491,1976-12-08,,,,5.833333333333333,zarafr01w,Guard,146.0,,Francesca Zara
+492,1982-09-27,Mississippi State,2.0,2005.0,5.583333333333333,whiteta01w,Guard,154.0,us,Tan White
+493,1983-09-18,West Virginia,16.0,2005.0,5.5,paigeyo01w,Guard,147.0,,Yolanda Paige
+494,1979-05-14,,,,5.5,lawsoed01w,Guard,130.0,fr,Edwige Lawson-Wade
+495,1983-06-17,Michigan State,9.0,2005.0,5.75,haynikr01w,Guard,147.0,us,Kristin Haynie
+496,1982-05-31,Connecticut,25.0,2005.0,6.0,battlas01w,Forward,170.0,,Ashley Battle
+497,1982-07-09,Connecticut,24.0,2005.0,6.25,mooreje01w,Forward-Center,175.0,,Jessica Moore
+498,1983-08-10,UC Santa Barbara,11.0,2005.0,6.166666666666667,mannkr01w,Forward,180.0,us,Kristen Mann
+499,1983-03-26,Notre Dame,17.0,2005.0,6.083333333333333,batteja01w,Forward,163.0,,Jacqueline Batteast
+500,1981-10-06,Vanderbilt,22.0,2004.0,6.25,bennije01w,Forward,185.0,,Jenni Benningfield
+501,1980-12-17,,22.0,2003.0,6.333333333333333,batkosu01w,Center,197.0,au,Suzy Batkovic-Brown
+502,1981-07-27,,,,,kingbsu01w,Guard,,,Susan King Borchardt
+503,1981-04-06,,,,6.25,vodopna01w,Forward,181.0,ru,Natalia Vodopyanova
+504,1983-12-13,,,,6.166666666666667,summela01w,Center,167.0,au,Laura Summerton
+505,1983-03-21,Tennessee,10.0,2005.0,5.75,moorelo01w,Guard,165.0,us,Loree Moore
+506,1984-02-29,,36.0,2004.0,5.75,martinu01w,Guard,145.0,es,Nuria Martinez
+507,1982-08-22,Ohio State,,,5.75,matteca01w,Guard,167.0,,Caity Matter
+508,1979-01-29,,,,6.083333333333333,feifesu01w,Guard,162.0,cn,Sui Feifei
+509,1981-09-30,Oregon,27.0,2005.0,6.25,kraayca01w,Forward,183.0,,Cathrine Kraayeveld
+510,1982-04-10,Michigan,32.0,2004.0,6.25,smithje01w,Center,198.0,,Jennifer Smith
+511,1984-08-16,Temple,6.0,2006.0,6.166666666666667,dupreca01w,Forward,178.0,us,Candice Dupree
+512,1984-02-13,Missouri,27.0,2006.0,5.583333333333333,bondla01w,Guard,132.0,us,LaToya Bond
+513,1983-02-25,Duke,3.0,2006.0,6.0,currimo01w,Forward,175.0,us,Monique Currie
+514,1983-04-30,West Virginia,,,6.416666666666667,leuchye01w,Center,195.0,by,Yelena Leuchanka
+515,1984-12-27,Tennessee,10.0,2006.0,6.416666666666667,flukety01w,Center,209.0,,Tye'sha Fluker
+516,1982-12-03,Georgia,12.0,2006.0,5.666666666666667,bakersh01w,Guard,125.0,,Sherill Baker
+517,1985-05-19,,21.0,2005.0,5.666666666666667,philler01w,Guard,165.0,au,Erin Phillips
+518,1983-02-13,Kansas State,34.0,2005.0,6.0,mahonme01w,Forward,160.0,,Megan Mahoney
+519,1984-03-22,North Carolina,9.0,2006.0,6.083333333333333,atkinla01w,Guard-Forward,164.0,,La'Tangela Atkinson
+520,1983-03-21,Pepperdine,,,6.25,lacyje01w,Forward,175.0,,Jennifer Lacy
+521,1983-01-07,Rutgers,2.0,2006.0,5.75,pondeca01w,Guard,160.0,us,Cappie Pondexter
+522,1983-12-11,Connecticut,15.0,2006.0,6.25,strotan01w,Guard-Forward,166.0,,Ann Strother
+523,1983-01-09,Louisiana State,14.0,2006.0,5.916666666666667,dorresc01w,Guard,162.0,,Scholanda Dorrell
+524,1984-05-07,Utah,13.0,2006.0,6.0,smithki01w,Forward,158.0,,Kim Smith
+525,1983-06-15,Iowa State,,,6.25,wilkibr01w,Center,185.0,,Brittany Wilkins
+526,1983-12-15,Baylor,4.0,2006.0,6.083333333333333,youngso01w,Forward,165.0,vc,Sophia Young-Malcolm
+527,1983-09-07,Tennessee,16.0,2006.0,5.833333333333333,zolmash01w,Guard,155.0,us,Shanna Zolman
+528,1978-03-26,,,,5.583333333333333,kostaan01w,Guard,137.0,gr,Anastasia Kostaki
+529,1983-12-02,Duke,21.0,2006.0,6.25,bassmi01w,Forward,189.0,us,Mistie Bass
+530,1984-06-13,UCLA,5.0,2006.0,6.083333333333333,willili01w,Guard,170.0,us,Lisa Willis
+531,1983-01-01,,,,6.0,davisbr01w,Guard,172.0,,Brandi Davis
+532,1983-04-25,,,,6.166666666666667,ndongem01w,Center,170.0,fr,Emmeline Ndongue
+533,1984-06-08,Connecticut,11.0,2006.0,5.833333333333333,turneba01w,Guard-Forward,182.0,,Barbara Turner
+534,1984-04-30,Louisiana State,1.0,2006.0,6.0,augusse01w,Guard-Forward,174.0,us,Seimone Augustus
+535,1984-07-13,Notre Dame,31.0,2006.0,5.583333333333333,duffyme01w,Guard,135.0,us,Megan Duffy
+536,1982-08-07,Utah,7.0,2006.0,5.75,thorbsh01w,Guard,149.0,gb,Shona Thorburn
+537,1983-10-18,,,,5.75,gomisem01w,Guard,135.0,sn,Emilie Gomis
+538,1983-06-23,Missouri,37.0,2006.0,6.25,ngarsch01w,Center,168.0,,Christelle N'Garsanet
+539,1984-04-29,UCLA,19.0,2006.0,5.666666666666667,blueni01w,Guard,163.0,us,Nikki Blue
+540,1984-06-13,Miami (Fla.),8.0,2006.0,5.833333333333333,jamesta01w,Guard-Forward,158.0,us,Tamara James
+541,1984-03-12,Iowa,32.0,2006.0,5.5,smithcr01w,Guard,121.0,,Crystal Smith
+542,1983-10-21,Georgia Tech,26.0,2006.0,6.25,terryka01w,Center-Forward,185.0,de,Kasha Terry
+543,1984-05-25,Michigan State,18.0,2006.0,6.083333333333333,moeggli01w,Forward,195.0,us,Liz Moeggenberg
+544,1981-06-25,,,,6.416666666666667,osipoir01w,Center,190.0,ru,Irina Osipova
+545,1981-07-23,,,,5.583333333333333,paliesa01w,Guard,159.0,,Sabrina Palie
+546,1983-04-04,Texas Tech,35.0,2005.0,6.416666666666667,greenci01w,Center,183.0,us,Cisti Greenwalt
+547,1984-03-14,Brigham Young,17.0,2006.0,6.0,anderam01w,Forward,167.0,,Ambrosia Anderson
+548,1975-03-30,,,,,vilipda01w,Forward-Center,,,Daliborka Vilipic
+549,1983-09-24,,,,6.583333333333333,teilaza01w,Center,176.0,lv,Zane Tamane
+550,1977-09-08,Colorado,,,6.0,cronika01w,Guard-Forward,155.0,,Katie Cronin
+551,1984-04-10,Boston College,23.0,2006.0,6.166666666666667,queenbr01w,Forward,185.0,us,Brooke Queenan
+552,1983-01-16,NC State,29.0,2006.0,6.25,stansti01w,Forward-Center,183.0,us,Tiffany Stansbury
+553,1983-06-05,,,,5.916666666666667,sandeam01w,Guard,156.0,us,Amy Sanders
+554,1984-09-25,North Carolina,11.0,2007.0,5.5,lattaiv01w,Guard,138.0,us,Ivory Latta
+555,1984-06-12,Duke,1.0,2007.0,5.666666666666667,hardili01w,Guard,139.0,us,Lindsey Harding
+556,1985-01-03,UCLA,4.0,2007.0,6.0,quinnno01w,Guard,178.0,us,Noelle Quinn
+557,1985-06-26,Boston College,24.0,2007.0,6.333333333333333,reisska01w,Forward,,it,Kathrin Ress
+558,1984-11-04,Alabama,,,5.833333333333333,moorena01w,Guard,145.0,us,Navonda Moore
+559,1985-04-15,USC,15.0,2007.0,5.916666666666667,murphsh01w,Guard,164.0,us,Shay Murphy
+560,1985-04-04,Duke,9.0,2007.0,6.583333333333333,balesal01w,Center,218.0,us,Alison Bales
+561,1985-01-18,North Carolina,17.0,2007.0,6.166666666666667,littlca01w,Forward,180.0,us,Camille Little
+562,1984-06-13,Texas Tech,39.0,2006.0,5.666666666666667,granter01w,Guard,125.0,,Erin Grant
+563,1985-06-15,SW Tennessee CC,8.0,2007.0,5.833333333333333,shielas01w,Guard,155.0,us,Ashley Shields
+564,1984-11-08,Vanderbilt,14.0,2007.0,5.583333333333333,davisde01w,Guard,138.0,us,Dee Davis
+565,1984-10-26,Purdue,7.0,2007.0,6.083333333333333,gearlka01w,Guard-Forward,184.0,us,Katie Gearlds
+566,1985-08-18,Temple,12.0,2007.0,6.0,hairska01w,Forward,146.0,us,Kamesha Hairston
+567,1984-02-14,Baylor,6.0,2007.0,6.083333333333333,mosbybe01w,Forward,140.0,,Bernice Mosby
+568,1985-04-03,Mississippi,3.0,2007.0,5.75,pricear01w,Guard,132.0,us,Armintie Herrington
+569,1985-10-31,Vanderbilt,10.0,2007.0,6.25,thomaca01w,Forward,200.0,,Carla Thomas
+570,1981-02-12,George Washington,30.0,2004.0,5.916666666666667,joensca01w,Guard-Forward,165.0,,Cathy Joens
+571,1985-06-24,Ohio State,2.0,2007.0,6.416666666666667,davenje01w,Center,215.0,,Jessica Davenport
+572,1985-04-26,Texas,5.0,2007.0,6.25,jacksti02w,Forward,185.0,,Tiffany Jackson-Jones
+573,1981-12-21,,,,5.916666666666667,fernama01w,Guard,138.0,es,Marta Fernandez
+574,1985-03-07,Tennessee,25.0,2007.0,6.25,spencsi01w,Guard,183.0,us,Sidney Spencer
+575,1985-01-15,Northern Illinois,20.0,2007.0,5.416666666666667,raymost01w,Guard,139.0,us,Stephanie Raymond
+576,1985-05-19,Kansas State,,,5.916666666666667,coggicl01w,Guard,170.0,us,Claire Coggins
+577,1983-06-07,NC State,32.0,2007.0,6.583333333333333,goringi01w,Center,225.0,tt,Gillian Goring
+578,1985-04-01,Maryland,16.0,2007.0,5.75,doronsh01w,Guard,145.0,il,Shay Doron
+579,1985-07-06,Georgia,26.0,2007.0,5.75,chambco01w,Guard,160.0,,Cori Chambers
+580,1978-12-20,,,,5.916666666666667,maltsev01w,Guard-Forward,165.0,gr,Evanthia Maltsi
+581,1983-10-25,Michigan State,,,5.583333333333333,bowenli01w,Guard,145.0,,Lindsay Bowen
+582,1982-06-01,Iona,29.0,2007.0,6.416666666666667,weberma01w,Center,200.0,,Martina Weber
+583,1985-04-21,Delaware,18.0,2007.0,6.0,smithty01w,Forward,,,Tyresa Smith
+584,1985-06-15,Georgia Tech,21.0,2008.0,6.0,nnamach01w,Guard,,,Chioma Nnamaka
+585,1984-05-19,Virginia Tech,34.0,2006.0,6.083333333333333,gardike01w,Forward,168.0,us,Kerri Gardin
+586,1985-06-07,Middle Tennessee State,9.0,2008.0,6.0,holtam01w,Forward,170.0,us,Amber Holt
+587,1986-07-22,Wisconsin,23.0,2008.0,5.666666666666667,anderjo01w,Guard,166.0,,Jolene Anderson
+588,1986-08-10,Connecticut,12.0,2008.0,5.583333333333333,swanike01w,Guard,150.0,us,Ketia Swanier
+589,1986-11-14,Nebraska,,,6.166666666666667,pageda01w,Forward,189.0,,Danielle Page
+590,1986-05-07,Rutgers,5.0,2008.0,5.666666666666667,ajavoma01w,Guard,160.0,lr,Matee Ajavon
+591,1986-08-26,Louisiana State,17.0,2008.0,5.25,whiteer01w,Guard,135.0,,Erica White
+592,1986-10-17,Pittsburgh,,,6.25,walkema01w,Center,253.0,,Marcedes Walker
+593,1985-10-16,Tennessee,4.0,2008.0,5.833333333333333,hornbal01w,Guard,164.0,us,Alexis Hornbuckle
+594,1985-08-21,West Virginia,18.0,2008.0,6.166666666666667,sanniol01w,Forward-Center,200.0,us,Olayinka Sanni
+595,1985-12-29,Georgia,11.0,2008.0,6.25,humphta01w,Center,190.0,us,Tasha Humphrey
+596,1986-10-27,Maryland,6.0,2008.0,6.166666666666667,langhcr01w,Forward-Center,185.0,us,Crystal Langhorne
+597,1986-09-08,Virginia Commonwealth,34.0,2008.0,6.083333333333333,vaughkr01w,Forward,160.0,,Krystal Vaughn
+598,1986-08-05,NC State,26.0,2008.0,6.083333333333333,whittkh01w,Forward,185.0,,Khadijah Whittington
+599,1986-04-19,Tennessee,1.0,2008.0,6.333333333333333,parkeca01w,Forward-Center,175.0,us,Candace Parker
+600,1985-12-06,Tennessee,15.0,2008.0,5.166666666666667,bobbish01w,Guard,130.0,us,Shannon Bobbitt
+601,1984-07-05,Connecticut,22.0,2006.0,6.166666666666667,crockwi01w,Forward,215.0,us,Willnett Crockett
+602,1982-10-17,,,,5.5,ogayu01w,Guard,140.0,jp,Yuko Oga
+603,1986-04-14,Texas A&M,24.0,2008.0,5.833333333333333,atunrmo01w,Guard-Forward,143.0,us,Morenike Atunrase
+604,1984-11-23,Texas Christian,,,5.666666666666667,rossad01w,Guard,142.0,,Adrianne Ross
+605,1986-04-11,Maryland,10.0,2008.0,6.416666666666667,harpela01w,Forward-Center,186.0,us,Laura Harper
+606,1985-09-29,Texas A&M,38.0,2008.0,5.333333333333333,frankaq01w,Guard,154.0,,A'Quonesia Franklin
+607,1986-07-23,Notre Dame,43.0,2008.0,5.916666666666667,allench01w,Guard,135.0,us,Charel Allen
+608,1985-10-06,Louisiana State,2.0,2008.0,6.5,fowlesy01w,Center,227.0,us,Sylvia Fowles
+609,1986-04-14,Louisiana State,19.0,2008.0,5.916666666666667,chanequ01w,Guard,160.0,us,Quianna Chaney
+610,1985-12-27,George Washington,36.0,2008.0,5.666666666666667,beckki01w,Guard,125.0,,Kimberly Beck
+611,1985-07-26,Middle Tennessee State,31.0,2007.0,5.916666666666667,givench01w,Guard,,us,Chrissy Givens
+612,1986-02-27,Tennessee,16.0,2008.0,6.25,anosini01w,Forward-Center,210.0,us,Nicky Anosike
+613,1987-02-14,Stanford,3.0,2008.0,5.916666666666667,wiggica01w,Guard,147.0,us,Candice Wiggins
+614,1986-04-10,Connecticut,30.0,2008.0,6.0,houstch01w,Forward,180.0,us,Charde Houston
+615,1986-07-28,Rutgers,7.0,2008.0,6.0,carsoes01w,Guard,163.0,us,Essence Carson
+616,1986-04-02,North Carolina,14.0,2008.0,6.083333333333333,larkier01w,Forward,205.0,us,Erlana Larkins
+617,1985-06-15,Utah,25.0,2008.0,5.416666666666667,mitchle01w,Guard,138.0,us,Leilani Mitchell
+618,1986-09-15,Western Kentucky,31.0,2008.0,6.166666666666667,kellycr01w,Forward,201.0,,Crystal Kelly
+619,1986-10-30,James Madison,8.0,2008.0,6.166666666666667,youngta01w,Forward,175.0,us,Tamera Young
+620,1986-06-13,UNLV,,,6.083333333333333,holmese01w,Guard,155.0,,Sequoia Holmes
+621,1987-06-25,,13.0,2007.0,6.333333333333333,grudasa01w,Forward-Center,185.0,fr,Sandrine Gruda
+622,1986-07-11,,,,,zollsh01w,Guard,,us,Sharnee' Zoll
+623,1986-06-20,DePaul,22.0,2008.0,5.833333333333333,quiglal01w,Guard,140.0,us,Allie Quigley
+624,1982-01-19,,,,6.333333333333333,pascafl01w,Center,187.0,ro,Florina Pascalau
+625,1986-09-11,North Carolina,13.0,2008.0,6.166666666666667,pringla01w,Forward-Center,170.0,de,LaToya Sanders
+626,1985-07-27,Penn State,,,6.083333333333333,gisseka01w,Forward,178.0,,Kamela Gissendanner
+627,1984-04-30,Stanford,23.0,2007.0,6.25,smithbr01w,Forward-Center,188.0,,Brooke Smith
+628,1983-04-12,Washington,,,6.083333333333333,oneilkr01w,Guard-Forward,158.0,,Kristen O'Neill
+629,1984-10-25,Oklahoma,28.0,2007.0,6.083333333333333,rushle01w,Forward,175.0,,Leah Rush
+630,1986-04-10,Rice,,,6.333333333333333,berezva01w,Center,,ua,Val Berezhynska
+631,1987-01-11,Arizona State,6.0,2009.0,5.666666666666667,januabr01w,Guard,144.0,us,Briann January
+632,1987-04-18,Vanderbilt,19.0,2009.0,6.083333333333333,wirthch01w,Forward,172.0,us,Christina Wirth
+633,1986-09-10,Louisville,1.0,2009.0,6.083333333333333,mccouan01w,Forward-Guard,173.0,us,Angel McCoughtry
+634,1986-10-27,Kansas State,25.0,2009.0,5.75,lehnish01w,Guard,140.0,us,Shalee Lehning
+635,1987-01-04,Maryland,2.0,2009.0,6.083333333333333,colemma01w,Guard-Forward,160.0,us,Marissa Coleman
+636,1985-11-12,Duke,10.0,2009.0,6.416666666666667,blackch01w,Center,188.0,us,Chante Black
+637,1987-05-19,Illinois State,,,5.666666666666667,cironkr01w,Guard,136.0,us,Kristi Cirone
+638,1985-03-24,Arkansas,37.0,2008.0,6.25,ervinla01w,Forward,171.0,,Lauren Ervin
+639,1986-08-28,Pittsburgh,11.0,2009.0,5.833333333333333,zellosh01w,Guard,188.0,us,Shavonte Zellous
+640,1986-05-26,Purdue,13.0,2009.0,6.166666666666667,wisdoli01w,Forward,186.0,,Lindsay Wisdom-Hylton
+641,1983-01-06,,,,6.5,nanch01w,Center,180.0,cn,Chen Nan
+642,1987-01-27,Maryland,3.0,2009.0,5.583333333333333,tolivkr01w,Guard,130.0,us,Kristi Toliver
+643,1986-12-02,Connecticut,4.0,2009.0,5.583333333333333,montgre01w,Guard,140.0,us,Renee Montgomery
+644,1988-11-15,Virginia Commonwealth,9.0,2009.0,6.416666666666667,holliqu01w,Center,200.0,us,Quanitra Hollingsworth
+645,1986-11-17,North Carolina,15.0,2009.0,6.083333333333333,mccanra01w,Forward,163.0,us,Rashanda McCants
+646,1987-08-21,Auburn,5.0,2009.0,6.333333333333333,bonnede01w,Forward-Guard,143.0,us,DeWanna Bonner
+647,1987-02-24,California,12.0,2009.0,6.083333333333333,walkeas01w,Forward-Center,200.0,,Ashley Walker
+648,1987-09-21,Oklahoma,7.0,2009.0,6.333333333333333,parisco01w,Center,250.0,us,Courtney Paris
+649,1987-01-24,Rutgers,8.0,2009.0,6.333333333333333,vaughki01w,Center,205.0,us,Kia Vaughn
+650,1987-08-10,Florida State,18.0,2009.0,6.333333333333333,millebr01w,Center,,,Britany Miller
+651,1987-03-29,Liberty,14.0,2009.0,6.25,frazeme01w,Forward,191.0,us,Megan Frazee
+652,1983-08-12,,,,5.75,jekaban01w,Guard,167.0,lv,Anete Jekabsone-Zogota
+653,1980-10-24,George Washington,,,6.083333333333333,montaan01w,Forward,190.0,es,Anna Montanana
+654,1987-01-23,Auburn,20.0,2009.0,5.666666666666667,boddiwh01w,Guard,145.0,us,Whitney Boddie
+655,1987-06-07,Florida State,37.0,2009.0,5.916666666666667,davista01w,Guard,,us,Tanae Davis-Cain
+656,1988-01-11,Rutgers,4.0,2010.0,5.75,princep01w,Guard,179.0,us,Epiphanny Prince
+657,1988-12-05,Connecticut,1.0,2010.0,6.333333333333333,charlti01w,Center,192.0,us,Tina Charles
+658,1987-07-02,Nebraska,3.0,2010.0,6.166666666666667,griffke01w,Forward,179.0,us,Kelsey Griffin
+659,1988-04-06,Louisiana State,15.0,2010.0,5.833333333333333,hightal01w,Guard,139.0,us,Allison Hightower
+660,1987-07-21,San Diego State,11.0,2010.0,5.75,morrije01w,Guard,146.0,us,Jene Morris
+661,1988-07-22,Oklahoma State,8.0,2010.0,5.416666666666667,rileyan01w,Guard,136.0,us,Andrea Riley
+662,1988-07-15,Virginia,2.0,2010.0,5.833333333333333,wrighmo01w,Guard,182.0,us,Monica Wright
+663,1987-02-12,Drexel,26.0,2010.0,6.083333333333333,margiga01w,Forward,164.0,ro,Gabriela Marginean
+664,1985-07-08,Texas-El Paso,28.0,2008.0,5.833333333333333,lacyna01w,Guard,165.0,us,Natasha Lacy
+665,1987-11-18,Oklahoma,19.0,2010.0,6.083333333333333,thompam01w,Forward,180.0,us,Amanda Thompson
+666,1975-10-12,North Carolina,33.0,2003.0,5.833333333333333,jonesma01w,Guard,150.0,us,Marion Jones
+667,1988-08-01,Texas,33.0,2010.0,6.0,ravenbr01w,Guard,162.0,us,Brittainey Raven
+668,1987-12-31,Georgia,16.0,2010.0,5.5,houtsas01w,Guard,145.0,us,Ashley Houts
+669,1988-07-06,Oklahoma,28.0,2010.0,6.333333333333333,olajuab01w,Center,236.0,us,Abi Olajuwon
+670,1987-07-13,Connecticut,13.0,2010.0,5.833333333333333,greenka01w,Guard,155.0,us,Kalana Greene
+671,1987-12-26,Iowa State,10.0,2010.0,6.0,laceyal01w,Guard,155.0,au,Alison Lacey
+672,1988-09-04,Florida State,6.0,2010.0,6.416666666666667,monroja01w,Forward,162.0,,Jacinta Monroe
+673,1983-12-31,,,,6.25,veselja01w,Forward,195.0,cz,Jana Vesela
+674,1988-11-29,,,,6.25,bishoab01w,Forward,180.0,au,Abby Bishop
+675,1988-05-14,Stanford,5.0,2010.0,6.333333333333333,appelja01w,Center,210.0,us,Jayne Appel-Marinelli
+676,1988-02-29,Oregon,,,5.5,lilleta01w,Guard,130.0,us,Taylor Lilley
+677,1988-10-13,Mississippi State,9.0,2010.0,6.416666666666667,mokanch01w,Forward,,cd,Chanel Mokango
+678,1988-06-25,Duke,35.0,2010.0,6.083333333333333,cheekjo01w,Forward,201.0,us,Joy Cheek
+679,1986-12-19,George Washington,34.0,2009.0,6.333333333333333,adairje01w,Center,197.0,us,Jessica Adair
+680,1989-06-11,Connecticut,1.0,2011.0,6.0,moorema01w,Forward,175.0,us,Maya Moore
+681,1988-01-16,Xavier (OH),4.0,2011.0,6.416666666666667,harriam01w,Forward,193.0,us,Amber Harris
+682,1987-06-06,,,,6.083333333333333,oheaje01w,Forward,174.0,au,Jenna O'Hea
+683,1988-11-12,Ohio State,5.0,2011.0,6.333333333333333,lavenja01w,Forward,185.0,us,Jantel Lavender
+684,1989-09-30,Duke,12.0,2011.0,5.75,thomaja01w,Guard,143.0,us,Jasmine Thomas
+685,1989-09-11,Duke,23.0,2011.0,6.0,chriska02w,Forward-Guard,209.0,us,Karima Christmas-Kelly
+686,1989-09-19,Kentucky,11.0,2011.0,6.083333333333333,dunlavi01w,Forward,167.0,us,Victoria Dunlap
+687,1989-01-24,Xavier (OH),8.0,2011.0,6.5,phillta02w,Center,,us,Ta'Shia Phillips
+688,1987-10-08,Kansas,7.0,2010.0,5.916666666666667,mccrada01w,Forward,170.0,us,Danielle McCray
+689,1989-02-08,Gonzaga,3.0,2011.0,5.666666666666667,vandeco01w,Guard,145.0,us,Courtney Vandersloot
+690,1989-07-19,Boston College,15.0,2011.0,6.5,swordca01w,Center,215.0,us,Carolyn Swords
+691,1989-05-02,Stanford,9.0,2011.0,6.0,pohleje01w,Guard,171.0,us,Jeanette Pohlen-Mavunga
+692,1991-08-18,,2.0,2011.0,6.666666666666667,cambael01w,Center,216.0,gb,Liz Cambage
+693,1989-04-14,Stanford,7.0,2011.0,6.333333333333333,pederka01w,Forward,190.0,us,Kayla Pedersen
+694,1988-05-06,Pepperdine,,,6.25,ayimmi01w,Forward,170.0,ca,Miranda Ayim
+695,1989-05-10,Oklahoma,6.0,2011.0,5.75,robinda01w,Guard,137.0,us,Danielle Robinson
+696,1989-02-19,Texas A&M,20.0,2011.0,6.083333333333333,adamsda01w,Forward-Center,239.0,us,Danielle Adams
+697,1988-01-13,Georgia,30.0,2011.0,6.166666666666667,phillpo01w,Forward,173.0,us,Porsha Phillips
+698,1989-10-05,Arizona,24.0,2011.0,6.166666666666667,ibekwif01w,Forward,148.0,us,Ify Ibekwe
+699,1988-02-23,North Carolina,13.0,2011.0,6.166666666666667,brelaje01w,Forward,166.0,us,Jessica Breland
+700,1988-11-12,Georgia Tech,10.0,2011.0,6.083333333333333,montgal01w,Guard-Forward,185.0,us,Alex Montgomery
+701,1989-08-06,Texas A&M,16.0,2011.0,5.666666666666667,colsosy01w,Guard,140.0,us,Sydney Colson
+702,1989-07-14,Tennessee,17.0,2011.0,6.0,bjorkan01w,Forward,,us,Angie Bjorklund
+703,1987-04-21,California,30.0,2010.0,5.666666666666667,graylal01w,Guard,180.0,us,Alexis Gray-Lawson
+704,1989-06-10,Duke,36.0,2011.0,6.416666666666667,thomakr01w,Center,210.0,us,Krystal Thomas
+705,1982-05-07,,,,6.333333333333333,kobryew01w,Center,210.0,pl,Ewelina Kobryn
+706,1988-03-24,DePaul,14.0,2011.0,,chestfe01w,Forward,,us,Felicia Chester
+707,1990-07-02,Stanford,1.0,2012.0,6.166666666666667,ogwumnn01w,Forward,174.0,us,Nneka Ogwumike
+708,1990-07-30,Tennessee,2.0,2012.0,6.166666666666667,stricsh01w,Forward,230.0,us,Shekinna Stricklen
+709,1986-02-13,Florida,,,6.333333333333333,henryan01w,Forward-Center,192.0,jm,Aneika Henry-Morello
+710,1989-09-20,Connecticut,14.0,2012.0,5.833333333333333,hayesti01w,Guard,155.0,us,Tiffany Hayes
+711,1990-08-09,Georgia Tech,11.0,2012.0,6.416666666666667,goodlsa01w,Center,239.0,us,Sasha Goodlett
+712,1990-12-08,Miami (Fla.),5.0,2012.0,5.916666666666667,johnssh02w,Guard,172.0,us,Shenise Johnson
+713,1989-02-15,,,,6.333333333333333,morrizi01w,Center,214.0,cl,Ziomara Morrison
+714,1990-05-28,Miami (Fla.),17.0,2012.0,5.583333333333333,williri02w,Guard,165.0,us,Riquna Williams
+715,1990-07-27,Tennessee,4.0,2012.0,6.25,johnsgl01w,Forward,170.0,us,Glory Johnson
+716,1990-04-04,Maryland,29.0,2012.0,6.333333333333333,kizerly01w,Forward,243.0,us,Lynetta Kizer
+717,1989-11-22,Notre Dame,8.0,2012.0,5.916666666666667,novosna01w,Guard,165.0,us,Natalie Novosel
+718,1989-05-16,Tennessee,7.0,2012.0,6.5,cainke01w,Center,220.0,us,Kelley Cain
+719,1990-02-22,North Carolina,21.0,2012.0,6.416666666666667,shegoch01w,Center,202.0,us,Chay Shegog
+720,1990-01-23,Ohio State,6.0,2012.0,5.583333333333333,prahasa01w,Guard,142.0,us,Samantha Prahalis
+721,1987-05-17,Liberty,,,6.25,warleav01w,Center,202.0,us,Avery Warley-Talbert
+722,1989-10-08,Notre Dame,3.0,2012.0,6.166666666666667,peterde01w,Forward,174.0,us,Devereaux Peters
+723,1990-07-30,Rutgers,28.0,2012.0,6.0,sykesap01w,Guard-Forward,183.0,us,April Sykes
+724,1987-07-07,Middle Tennessee State,17.0,2010.0,5.916666666666667,clarkal01w,Forward,167.0,us,Alysha Clark
+725,1989-02-18,,26.0,2009.0,6.166666666666667,petroso01w,Forward,169.0,rs,Sonja Petrovic
+726,1990-11-18,Texas A&M,27.0,2012.0,5.5,cartesy01w,Guard,133.0,us,Sydney Carter
+727,1988-10-11,Gonzaga,36.0,2012.0,6.083333333333333,redmoka01w,Guard-Forward,,us,Katelan Redmon
+728,1989-04-09,Wis.-Green Bay,18.0,2012.0,6.0,wojtaju01w,Guard-Forward,,us,Julie Wojta
+729,1989-09-29,Arizona State,,,5.416666666666667,simondy01w,Guard,137.0,,Dymond Simon
+730,1989-06-30,James Madison,,,5.583333333333333,evansda01w,Guard,124.0,,Dawn Evans
+731,1990-08-16,USC,,,6.0,gilbrbr01w,Guard,150.0,us,Briana Gilbreath-Butler
+732,1991-04-09,Georgia,21.0,2013.0,6.166666666666667,hasseja01w,Forward,205.0,,Jasmine Hassell
+733,1991-01-05,Syracuse,8.0,2013.0,6.333333333333333,alexaka01w,Center,195.0,,Kayla Alexander
+734,1991-05-14,Arizona,16.0,2013.0,5.916666666666667,whyteda01w,Guard,159.0,us,Davellyn Whyte
+735,1990-08-02,Notre Dame,3.0,2013.0,5.75,diggisk01w,Guard,145.0,us,Skylar Diggins-Smith
+736,1990-02-24,Kansas,29.0,2013.0,5.333333333333333,goodran01w,Guard,127.0,us,Angel Goodrich
+737,1990-10-27,Penn State,13.0,2013.0,5.583333333333333,bentlal01w,Guard,152.0,us,Alex Bentley
+738,1989-11-12,San Diego State,,,6.0,clemeco01w,Guard,157.0,us,Courtney Clements
+739,1991-01-24,Georgia,31.0,2013.0,,mariean01w,,,,Anne Marie Armstrong
+740,1991-01-11,Oklahoma State,7.0,2013.0,6.0,youngto01w,Forward,158.0,us,Toni Young
+741,1991-04-06,Tennessee,15.0,2013.0,5.916666666666667,willika01w,Guard,160.0,us,Kamiko Williams
+742,1991-12-31,Texas A&M,5.0,2013.0,6.333333333333333,boneke01w,Center,220.0,us,Kelsey Bone
+743,1991-01-16,Connecticut,11.0,2013.0,5.916666666666667,fariske01w,Guard,154.0,us,Kelly Faris
+744,1991-03-02,Maryland,6.0,2013.0,6.25,hawkiti01w,Forward,186.0,us,Tianna Hawkins
+745,1989-10-14,Florida State,,,6.333333333333333,bravaci01w,Forward,,,Cierra Bravard
+746,1992-05-31,,13.0,2012.0,6.166666666666667,abdifa01w,Forward,180.0,,Farhiya Abdi
+747,1991-05-18,Kentucky,10.0,2013.0,5.75,mathiad01w,Guard,,,A'dia Mathies
+748,1989-09-05,Delaware,2.0,2013.0,6.416666666666667,delleel01w,Forward-Guard,187.0,us,Elena Delle Donne
+749,1984-05-12,Rutgers,,,6.166666666666667,campbmi02w,Forward,183.0,,Michelle Campbell
+750,1990-10-18,Baylor,1.0,2013.0,6.75,grinebr01w,Center,205.0,us,Brittney Griner
+751,1990-10-23,Ohio State,4.0,2013.0,5.75,hillta01w,Guard,145.0,us,Tayler Hill
+752,1991-04-11,North Carolina,,,5.916666666666667,ruffiti01w,Guard,180.0,us,Tierra Ruffin-Pratt
+753,1993-05-13,,19.0,2013.0,6.333333333333333,meessem01w,Forward,191.0,be,Emma Meesseman
+754,1991-05-02,California,9.0,2013.0,5.75,clarela01w,Guard,158.0,us,Layshia Clarendon
+755,1991-12-06,,18.0,2011.0,6.083333333333333,jarryra01w,Forward,176.0,au,Rachel Jarry
+756,1989-12-08,Georgetown,14.0,2013.0,5.75,rodgesu01w,Guard,161.0,us,Sugar Rodgers
+757,1991-06-03,Nebraska,12.0,2013.0,5.666666666666667,mooreli01w,Guard,148.0,us,Lindsey Moore
+758,1991-09-06,St. John's (NY),17.0,2013.0,5.583333333333333,mckenna01w,Guard,155.0,us,Nadirah McKenith
+759,1991-07-29,Georgia,30.0,2013.0,5.75,jamesja01w,Guard,,,Jasmine James
+760,1991-05-08,Colorado,24.0,2013.0,,jeffeja01w,,,,Chucky Jeffery
+761,1991-02-19,Iowa State,18.0,2013.0,6.166666666666667,poppech01w,Forward,,us,Chelsea Poppens
+762,1990-12-29,Stanford,,,6.25,tinkljo01w,Forward,180.0,se,Joslyn Tinkle
+763,1990-07-02,San Diego State,,,5.666666666666667,hopkich01w,Guard,139.0,,Chelsea Hopkins
+764,1992-06-25,Notre Dame,3.0,2014.0,5.833333333333333,mcbrika01w,Guard,174.0,us,Kayla McBride
+765,1992-05-04,Louisville,8.0,2014.0,5.75,schimsh01w,Guard,161.0,,Shoni Schimmel
+766,1991-09-02,Florida State,5.0,2014.0,6.166666666666667,howarna01w,Forward,165.0,us,Natasha Howard
+767,1991-11-29,Penn State,21.0,2014.0,5.833333333333333,lucasma01w,Guard,158.0,us,Maggie Lucas
+768,1992-07-14,NC State,10.0,2014.0,6.416666666666667,gatlima01w,Center,195.0,,Markeisha Gatling
+769,1992-03-09,Southern Mississippi,34.0,2014.0,5.5,faulkja01w,Guard,138.0,us,Jamierra Faulkner
+770,1990-11-23,California,22.0,2014.0,6.166666666666667,brandge01w,Forward,164.0,us,Gennifer Brandon
+771,1986-10-27,,,,5.75,cruzan01w,Guard,136.0,es,Anna Cruz
+772,1992-03-21,Stanford,1.0,2014.0,6.333333333333333,ogwumch01w,Forward-Center,173.0,us,Chiney Ogwumike
+773,1992-04-12,Maryland,4.0,2014.0,6.166666666666667,thomaal01w,Forward,185.0,us,Alyssa Thomas
+774,1990-09-06,Penn State,26.0,2013.0,6.333333333333333,greenni01w,Forward-Center,192.0,,Nikki Greene
+775,1987-04-20,Georgia,20.0,2010.0,6.5,robinan01w,Forward-Center,193.0,,Angel Robinson
+776,1992-11-17,,12.0,2012.0,6.25,dantada01w,Forward,206.0,br,Damiris Dantas
+777,1991-08-22,Louisville,36.0,2014.0,6.083333333333333,tayloas01w,Guard,167.0,us,Asia Taylor
+778,1992-02-20,Duke,12.0,2014.0,6.0,listtotr01,Forward,185.0,us,Tricia Liston
+779,1992-09-30,Connecticut,7.0,2014.0,5.666666666666667,hartlbr01w,Guard,148.0,us,Bria Hartley
+780,1992-01-08,Connecticut,6.0,2014.0,6.416666666666667,dolsost01w,Center,231.0,us,Stefanie Dolson
+781,1989-04-28,,24.0,2009.0,6.25,milovje01w,Forward-Center,175.0,rs,Jelena Milovanovic
+782,1989-11-10,South Florida,18.0,2014.0,6.166666666666667,orekhin01w,Guard,160.0,ua,Inga Orekhova
+783,1992-07-19,Oklahoma,,,5.583333333333333,ellenaa01w,Guard,122.0,,Aaryn Ellenberg
+784,1992-05-22,Oklahoma State,17.0,2014.0,5.583333333333333,biasti01w,Guard,135.0,us,Tiffany Bias
+785,1992-07-13,Baylor,2.0,2014.0,5.666666666666667,simsod01w,Guard,163.0,us,Odyssey Sims
+786,1992-02-20,Nebraska,13.0,2014.0,6.166666666666667,hoopejo01w,Forward,185.0,us,Jordan Hooper
+787,1989-05-21,Tennessee,25.0,2012.0,6.333333333333333,baughvi01w,Forward-Center,190.0,,Vicki Baugh
+788,1991-11-07,Tennessee-Martin,,,5.416666666666667,butlehe01w,Guard,128.0,,Heather Butler
+789,1992-05-18,Louisiana State,27.0,2014.0,6.416666666666667,plaisth01w,Forward,200.0,us,Theresa Plaisance
+790,1989-02-25,,,,6.333333333333333,colhana01w,Center,196.0,,Nadia Colhado
+791,1992-08-25,Louisiana State,,,6.333333333333333,mckinsh01w,Center-Forward,215.0,,Shanece McKinney
+792,1982-07-09,,,,5.583333333333333,dumercc01w,Guard,132.0,,Celine Dumerc
+793,1989-10-09,UCLA,,,5.666666666666667,morrida01w,Guard,155.0,,Darxia Morris
+794,1994-08-22,,16.0,2014.0,6.416666666666667,ndouras01w,Center-Forward,150.0,sn,Astou Ndour
+795,1990-09-11,North Carolina,36.0,2013.0,6.5,rollewa01w,Center,199.0,,Waltiea Rolle
+796,1992-11-22,Notre Dame,9.0,2014.0,6.25,achonna01w,Forward,190.0,ca,Natalie Achonwa
+797,1992-08-22,Middle Tennessee State,5.0,2015.0,6.333333333333333,parkech01w,Forward,193.0,us,Cheyenne Parker
+798,1990-08-07,Temple,,,6.333333333333333,macauvi01w,Center,165.0,us,Victoria Macaulay
+799,1993-10-29,Rutgers,17.0,2015.0,6.0,laneybe01w,Guard-Forward,166.0,us,Betnijah Laney
+800,1988-03-10,,,,6.083333333333333,dossacl01w,Center,196.0,,Clarissa Dos Santos
+801,1992-02-22,St. Joseph's (PA),15.0,2015.0,5.75,cloudna01w,Guard,160.0,us,Natasha Cloud
+802,1992-10-20,Texas-El Paso,,,6.083333333333333,thornka01w,Forward,190.0,us,Kayla Thornton
+803,1992-10-31,Dayton,8.0,2015.0,6.333333333333333,malotal01w,Forward,183.0,,Ally Malott
+804,1993-06-23,Duke,4.0,2015.0,6.25,williel01w,Center-Forward,200.0,us,Elizabeth Williams
+805,1992-10-08,Duke,11.0,2014.0,5.916666666666667,graych01w,Guard,170.0,us,Chelsea Gray
+806,1993-07-08,Pittsburgh,13.0,2015.0,5.583333333333333,kiesebr01w,Guard,125.0,,Brianna Kiesel
+807,1993-09-08,Minnesota,2.0,2015.0,6.416666666666667,zahuiam01w,Center,250.0,se,Amanda Zahui B.
+808,1990-04-19,Kentucky,,,5.416666666666667,oneilje01w,,141.0,,Jennifer O'Neill
+809,1991-05-02,Rutgers,,,5.583333333333333,wheeler01w,Guard,143.0,us,Erica Wheeler
+810,1993-03-30,Connecticut,11.0,2015.0,6.25,stokeki01w,Center,191.0,us,Kiah Stokes
+811,1993-06-11,California,9.0,2015.0,5.75,boydbr01w,Guard,156.0,us,Brittany Boyd
+812,1992-11-06,,,,6.166666666666667,allenre01w,Guard,162.0,au,Rebecca Allen
+813,1993-11-06,Wake Forest,6.0,2015.0,6.25,hambyde01w,Forward,189.0,us,Dearica Hamby
+814,1989-05-01,,,,6.333333333333333,francca01w,Center,192.0,au,Cayla George
+815,1993-03-27,Wichita State,18.0,2015.0,6.0,hardeal01w,Guard,173.0,,Alex Harden
+816,1993-06-01,California,16.0,2015.0,6.166666666666667,grayre01w,Forward,192.0,us,Reshanda Gray
+817,1989-07-02,,,,6.416666666666667,toloma01w,Center,190.0,au,Marianna Tolo
+818,1992-09-09,Dayton,31.0,2015.0,5.75,hoovean01w,Guard,155.0,,Andrea Hoover
+819,1992-01-23,Brigham Young,23.0,2014.0,6.583333333333333,hamsoje01w,Center,210.0,us,Jennifer Hamson
+820,1993-10-05,Notre Dame,1.0,2015.0,5.833333333333333,loydje01w,Guard,148.0,us,Jewell Loyd
+821,1991-06-11,,,,6.25,tokasra01w,Forward,176.0,,Ramu Tokashiki
+822,1993-11-03,Connecticut,3.0,2015.0,5.916666666666667,mosquka01w,Forward,180.0,us,Kaleena Mosqueda-Lewis
+823,1992-10-22,Iowa,10.0,2015.0,5.75,logicsa01w,Guard,177.0,,Samantha Logic
+824,1993-04-24,DePaul,19.0,2015.0,5.666666666666667,hrynkbr01w,Guard,152.0,,Brittany Hrynko
+825,1990-08-12,,,,6.0,madgete01w,Guard,169.0,,Tess Madgen
+826,1988-11-22,USC,31.0,2012.0,6.0,gemelja01w,Guard,165.0,us,Jacki Gemelos
+827,1993-09-30,Tennessee,14.0,2015.0,6.166666666666667,burdici01w,Forward,172.0,,Cierra Burdick
+828,1992-09-12,Vanderbilt,,,5.333333333333333,listeja01w,,135.0,,Jasmine Lister
+829,1990-12-20,,,,5.916666666666667,xargama01w,Guard,,,Marta Xargay
+830,1989-08-18,,,,6.0,dabonan01w,Guard,157.0,,Ana Dabovic
+831,1993-11-01,Central Michigan,7.0,2015.0,6.0,bradfcr01w,Guard,,,Crystal Bradford
+832,1994-04-29,,,,6.083333333333333,ayayiva01w,Forward,,,Valeriane Ayayi
+833,1991-09-29,Minnesota,35.0,2015.0,6.083333333333333,kellesh01w,Forward,166.0,,Shae Kelley
+834,1987-07-21,Texas,,,5.666666666666667,cortica01w,Guard,135.0,,Carla Cortijo
+835,1994-01-05,Clemson/George Washington,6.0,2016.0,6.5,jonesjo01w,Forward,190.0,bs,Jonquel Jones
+836,1994-04-30,Connecticut,3.0,2016.0,6.166666666666667,tuckmo01w,Forward,207.0,us,Morgan Tuck
+837,1993-07-15,Minnesota,4.0,2016.0,5.75,banhara01w,Guard,168.0,us,Rachel Banham
+838,1994-10-11,Texas,10.0,2016.0,6.583333333333333,boyetim01w,Center,215.0,us,Imani McGee-Stafford
+839,1994-01-17,Michigan State,5.0,2016.0,5.75,powerae01w,Forward-Guard,159.0,us,Aerial Powers
+840,1994-06-24,Oregon State,18.0,2016.0,6.5,hamblru01w,Center,227.0,,Ruth Hamblin
+841,1994-09-23,South Carolina,9.0,2016.0,5.75,mitchti01w,Guard,152.0,us,Tiffany Mitchell
+842,1993-11-25,Maryland,21.0,2016.0,,moselbr01w,,,,Brene Moseley
+843,1993-12-03,UCLA,32.0,2016.0,,fieldni01w,,,,Nirra Fields
+844,1993-09-27,Tennessee,12.0,2015.0,6.25,harriis01w,Forward,183.0,us,Isabelle Harrison
+845,1994-05-11,South Florida,8.0,2016.0,5.666666666666667,willico01w,Guard,133.0,us,Courtney Williams
+846,1994-03-17,Tennessee,22.0,2016.0,6.166666666666667,graveba01w,Forward,200.0,,Bashaara Graves
+847,1990-02-22,DePaul,22.0,2012.0,6.083333333333333,hamptke01w,Forward,171.0,,Keisha Hampton
+848,1993-10-24,Rutgers,13.0,2016.0,6.333333333333333,hollira01w,Center,210.0,,Rachel Hollivay
+849,1994-04-19,West Virginia,11.0,2016.0,6.25,holmebr01w,Guard,170.0,us,Bria Holmes
+850,1992-01-25,Tennessee,26.0,2014.0,5.75,simmome01w,Guard,140.0,,Meighan Simmons
+851,1994-03-08,Connecticut,2.0,2016.0,5.5,jeffemo01w,Guard,123.0,us,Moriah Jefferson
+852,1992-09-17,Duke,,,6.25,peterha01w,Forward,178.0,us,Haley Peters
+853,1994-06-20,Ohio State,24.0,2016.0,,alstoam01w,,,,Ameryst Alston
+854,1994-08-28,Rutgers,7.0,2016.0,6.083333333333333,coppeka01w,Guard-Forward,155.0,us,Kahleah Copper
+855,1994-08-27,Connecticut,1.0,2016.0,6.333333333333333,stewabr01w,Forward,170.0,us,Breanna Stewart
+856,1986-06-27,,,,6.0,belyaeu01w,Forward,150.0,,Evgeniya Belyakova
+857,1987-05-07,,,,6.25,dubljje01w,Forward,179.0,,Jelena Dubljevic
+858,1993-01-09,Florida Gulf Coast,15.0,2016.0,6.25,knighwh01w,Guard,156.0,,Whitney Knight
+859,1987-05-25,,,,,dimitzo01w,,,,Zoi Dimitrakou
+860,1988-01-04,,,,,eldebfr01w,,,,Frida Eldebrink
+861,1994-08-09,Oregon State,17.0,2016.0,,weisnja01d,,,,Jamie Weisner
+862,1993-07-19,Princeton,,,5.833333333333333,dietrbl01w,Guard,159.0,us,Blake Dietrick
+863,1992-12-20,Florida State,12.0,2016.0,6.333333333333333,bulgaad01w,Center,156.0,,Adut Bulgak
+864,1993-01-24,James Madison,14.0,2016.0,6.166666666666667,gwathja01w,Guard,158.0,,Jazmon Gwathmey
+865,1994-02-07,Syracuse,7.0,2017.0,5.75,sykesbr01w,Guard,154.0,us,Brittney Sykes
+866,1988-07-20,Washington,,,5.833333333333333,whitcsa01w,Guard,145.0,us,Sami Whitcomb
+867,1995-06-20,Syracuse,15.0,2017.0,5.583333333333333,peteral01w,Guard,139.0,,Alexis Peterson
+868,1993-09-17,West Virginia,30.0,2017.0,6.416666666666667,montgla01w,Center,212.0,,Lanay Montgomery
+869,1995-06-16,Oregon State,11.0,2017.0,6.0,wiesesy01w,Guard,165.0,us,Sydney Wiese
+870,1995-06-11,Northwestern,5.0,2017.0,6.083333333333333,coffeni01w,Forward,182.0,us,Nia Coffey
+871,1991-08-29,Simon Fraser (BC),,,6.166666666666667,raincna01w,Forward,175.0,ca,Nayo Raincock-Ekunwe
+872,1995-06-06,Kentucky,33.0,2017.0,5.833333333333333,eppsma01w,Guard,,,Makayla Epps
+873,1992-09-08,Harvard/USC,35.0,2016.0,6.333333333333333,fagbete01w,Forward,180.0,us,Temi Fagbenle
+874,1994-05-08,Duke/Baylor,12.0,2017.0,5.75,jonesal01w,Guard,167.0,us,Alexis Jones
+875,1995-01-12,UNC/South Carolina,4.0,2017.0,6.0,grayal01w,Guard,167.0,us,Allisha Gray
+876,1995-03-15,Georgia Tech/South Carolina,10.0,2017.0,6.166666666666667,daviska01w,Guard,170.0,us,Kaela Davis
+877,1994-06-27,Connecticut,26.0,2017.0,5.666666666666667,chongsa01w,Guard,140.0,,Saniya Chong
+878,1994-06-15,,33.0,2014.0,6.166666666666667,talbost01w,Forward-Guard,192.0,au,Stephanie Talbot
+879,1989-06-01,Florida Southern,,,6.166666666666667,cannoem01w,Forward,190.0,,Emma Cannon
+880,1994-02-05,Baylor,29.0,2017.0,6.166666666666667,princal01w,Guard,178.0,,Alexis Prince
+881,1987-10-13,Nebraska,,,5.833333333333333,turneyv01w,Guard,131.0,us,Yvonne Turner
+882,1995-08-21,Stanford,17.0,2017.0,6.166666666666667,mccaler01w,Forward,184.0,us,Erica McCall
+883,1995-08-30,Arizona State,,,,brunnso01w,,,,Sophie Brunner
+884,1994-06-22,Kansas State,23.0,2017.0,6.416666666666667,lewisbr01w,Center,205.0,,Breanna Lewis
+885,1995-05-18,Maryland,6.0,2017.0,5.75,walkesh01w,Guard,140.0,us,Shatori Walker-Kimbrough
+886,1994-04-21,Old Dominion,18.0,2017.0,6.0,simmsje01w,Guard,165.0,,Jennie Simms
+887,1995-02-03,Kentucky,3.0,2017.0,6.25,akhatev01w,Forward,180.0,,Evelyn Akhator
+888,1994-08-24,Washington,1.0,2017.0,5.666666666666667,plumke01w,Guard,145.0,us,Kelsey Plum
+889,1995-12-18,Maryland,8.0,2017.0,6.25,jonesbr01w,Forward,230.0,us,Brionna Jones
+890,1995-03-20,Notre Dame,14.0,2017.0,5.666666666666667,allenli01w,Guard,144.0,us,Lindsay Allen
+891,1991-01-30,,,,6.5,diarrma01w,Center,,,Maimouna Diarra
+892,1995-04-15,Temple,20.0,2017.0,,fitzgfe01w,,,,Feyonda Fitzgerald
+893,1996-03-16,,,,6.166666666666667,zandace01w,Forward,175.0,,Cecilia Zandalasini
+894,1996-02-01,Connecticut,6.0,2018.0,6.5,steveaz01w,Forward-Center,180.0,us,Azura Stevens
+895,1994-05-28,Oregon State,12.0,2018.0,6.416666666666667,gulima01w,Center,205.0,de,Marie Gulich
+896,1996-09-09,Connecticut,4.0,2018.0,5.916666666666667,williga01w,Forward,172.0,us,Gabby Williams
+897,1995-03-05,Tennessee,3.0,2018.0,6.083333333333333,deshidi01w,Guard,163.0,us,Diamond DeShields
+898,1995-04-07,South Carolina,2.0,2017.0,6.333333333333333,coateal01w,Center,225.0,us,Alaina Coates
+899,1995-07-21,,,,5.666666666666667,benahi01w,Guard,,,Hind Ben Abdelkader
+900,1995-11-12,Ohio State,2.0,2018.0,5.666666666666667,mitchke01w,Guard,160.0,us,Kelsey Mitchell
+901,1995-02-24,Ohio State,14.0,2018.0,6.25,mavunst01w,Forward,205.0,zw,Stephanie Mavunga
+902,1994-11-17,Mississippi State,8.0,2018.0,6.083333333333333,viviavi01w,Guard,183.0,us,Victoria Vivians
+903,1996-02-22,Connecticut,10.0,2018.0,6.0,nurseki01w,Guard,168.0,ca,Kia Nurse
+904,1995-07-25,Tennessee,22.0,2018.0,6.5,russeme01w,Center,195.0,us,Mercedes Russell
+905,1996-08-08,South Carolina,1.0,2018.0,6.333333333333333,wilsoa01w,Forward,195.0,us,A'ja Wilson
+906,1995-09-14,Tennessee,13.0,2018.0,6.166666666666667,naredja01w,Guard-Forward,160.0,,Jaime Nared
+907,1998-12-06,,17.0,2018.0,6.416666666666667,parkji01w,Center,206.0,kr,JiSu Park
+908,1994-09-03,Louisiana State,25.0,2018.0,,louisra01w,,,,Raigyne Louis
+909,1994-10-27,Duke,9.0,2018.0,5.75,brownle02w,Guard,158.0,us,Lexie Brown
+910,1996-05-02,UCLA,15.0,2018.0,6.333333333333333,billimo01w,Forward,192.0,us,Monique Billings
+911,1995-05-10,Stanford,,,6.0,samueka01w,Guard,,,Karlie Samuelson
+912,1995-08-11,UCLA,5.0,2018.0,5.5,canadjo01w,Guard,135.0,us,Jordin Canada
+913,1996-07-30,Texas,7.0,2018.0,5.666666666666667,atkinar01w,Guard,167.0,us,Ariel Atkins
+914,1996-05-30,Louisville,19.0,2018.0,6.083333333333333,hinesmy01w,Forward,200.0,us,Myisha Hines-Allen
+915,1995-01-31,,,,5.666666666666667,harpeli01w,Guard,,,Linnae Harper
+916,1995-12-16,West Virginia,29.0,2018.0,6.083333333333333,muldrte01w,Forward,,,Teana Muldrow
+917,1995-02-05,Florida State,26.0,2018.0,,wrighim01w,,,,Imani Wright
+918,1988-05-15,,,,6.25,miyemen01w,Forward,204.0,,Endy Miyem
+919,1995-05-28,Florida State,16.0,2017.0,5.666666666666667,romerle01w,Guard,143.0,,Leticia Romero
+920,1998-07-16,,11.0,2018.0,6.333333333333333,vadeema01w,Center,185.0,ru,Maria Vadeeva
+921,1990-04-28,,,,,elonuad01w,,,,Adaora Elonu
+922,1997-03-02,Notre Dame,5.0,2019.0,5.666666666666667,ogunbar01w,Guard,165.0,us,Arike Ogunbowale
+923,1995-10-02,Texas,,,,mccarbr01w,Guard,,us,Brooke McCarty-Williams
+924,1996-09-28,Mississippi State,3.0,2019.0,6.583333333333333,mccowte01w,Center,239.0,us,Teaira McCowan
+925,1997-04-05,Louisville,2.0,2019.0,5.833333333333333,durras01w,Guard,151.0,us,Asia Durr
+926,1999-10-31,,14.0,2019.0,,xuha01w,Center,,cn,Han Xu
+927,1990-03-12,Colorado State,,,,mestdki01w,Guard,,be,Kim Mestdagh
+928,1997-06-13,Connecticut,4.0,2019.0,6.25,samueka02w,Forward,163.0,us,Katie Lou Samuelson
+929,1996-08-21,Baylor,15.0,2019.0,5.666666666666667,jacksch01w,Guard,147.0,us,Chloe Jackson
+930,1996-09-23,Connecticut,6.0,2019.0,6.083333333333333,collina01w,Forward,182.0,us,Napheesa Collier
+931,1996-09-11,Notre Dame,16.0,2019.0,6.25,shepaje01w,Forward,199.0,us,Jessica Shepard
+932,1989-12-10,,,,6.083333333333333,tingsh01w,Forward,170.0,cn,Shao Ting
+933,1996-09-10,Stanford,8.0,2019.0,6.333333333333333,smithal01w,Forward,180.0,au,Alanna Smith
+934,1996-08-16,Missouri,13.0,2019.0,6.083333333333333,cunniso01w,Guard,170.0,us,Sophie Cunningham
+935,1996-07-19,Louisville,32.0,2019.0,,cartear01w,,,,Arica Carter
+936,1996-07-05,Notre Dame,11.0,2019.0,6.25,turnebr01w,Forward,170.0,us,Brianna Turner
+937,1996-09-14,Notre Dame,19.0,2019.0,5.916666666666667,mabrema01w,Guard,170.0,us,Marina Mabrey
+938,1997-03-21,Baylor,7.0,2019.0,6.583333333333333,brownka01w,Center,245.0,us,Kalani Brown
+939,1997-09-16,Notre Dame,1.0,2019.0,6.0,youngja01w,Guard,165.0,us,Jackie Young
+940,1997-05-06,Mississippi State,24.0,2019.0,,howaran01w,,,,Anriel Howard
+941,1997-06-18,Oregon,23.0,2019.0,5.833333333333333,cazorma01w,Guard,155.0,es,Maite Cazorla
+942,1997-02-14,UCLA,22.0,2019.0,6.083333333333333,burkeke01w,Guard,182.0,us,Kennedy Burke
+943,1996-04-07,North Carolina,25.0,2019.0,5.75,keapa01w,Guard,142.0,us,Paris Kea
+944,1997-03-31,California,9.0,2019.0,6.333333333333333,anigwkr01w,Forward-Center,200.0,gb,Kristine Anigwe
+945,1997-05-22,Iowa State,21.0,2019.0,6.083333333333333,carlebr01w,Guard,195.0,,Bridget Carleton
+946,1988-10-28,Temple,23.0,2012.0,5.583333333333333,peddysh01w,Guard,147.0,us,Shey Peddy
+947,1996-12-13,Iowa,17.0,2019.0,6.25,gustame01w,Center,195.0,us,Megan Gustafson
+948,1996-05-25,Minnesota,30.0,2019.0,5.833333333333333,bellke01w,Guard,146.0,us,Kenisha Bell
+949,1997-02-10,Marquette,18.0,2019.0,5.666666666666667,hiedena01w,Guard,135.0,us,Natisha Hiedeman
+950,1995-01-21,,,,,johanma01w,,,,Marine Johannes
+951,1994-09-08,Oregon,20.0,2016.0,,alleyji01w,,,,Jillian Alleyne
+952,1997-12-06,Oregon,1.0,2020.0,5.916666666666667,ionessa01w,Guard,165.0,us,Sabrina Ionescu
+953,1998-03-26,Duke,15.0,2020.0,6.166666666666667,odomle01w,Forward,168.0,us,Leaonna Odom
+954,1998-03-25,Virginia,10.0,2020.0,6.0,willojo01w,Forward-Guard,180.0,us,Jocelyn Willoughby
+955,1998-03-18,Louisville,13.0,2020.0,6.333333333333333,shookky01w,Forward,200.0,us,Kylee Shook
+956,1998-02-22,Texas,19.0,2020.0,6.25,holmejo02w,Forward,200.0,us,Joyner Holmes
+957,1999-08-13,,,,6.333333333333333,magbeez01w,Center,176.0,,Ezi Magbegor
+958,1997-04-16,Baylor,18.0,2020.0,5.666666666666667,coopete01w,Guard,160.0,us,Te'a Cooper
+959,1996-07-07,,,,5.666666666666667,allemju01w,Guard,147.0,,Julie Allemand
+960,1995-12-06,North Carolina State,,,6.0,lesliki01w,Guard,175.0,us,Kiara Leslie
+961,1998-04-25,Oregon,2.0,2020.0,6.333333333333333,sabalsa01w,Forward,,,Satou Sabally
+962,1998-05-01,South Carolina,7.0,2020.0,5.833333333333333,harrity01w,Guard,,us,Tyasha Harris
+963,1998-04-23,Princeton,5.0,2020.0,6.333333333333333,alaribe01w,Center-Forward,,us,Bella Alarie
+964,1998-11-14,Texas A&M,4.0,2020.0,5.75,cartech01w,Guard,143.0,us,Chennedy Carter
+965,1997-07-21,Creighton,24.0,2020.0,5.916666666666667,agnewja01w,Forward,149.0,us,Jaylyn Agnew
+966,1998-04-28,Oregon,8.0,2020.0,6.333333333333333,hebarru01w,Forward,,us,Ruthy Hebard
+967,1998-05-11,Connecticut,16.0,2020.0,5.416666666666667,dangecr01w,Guard,,us,Crystal Dangerfield
+968,1998-03-23,Maryland,23.0,2020.0,6.083333333333333,charlka01w,Guard-Forward,167.0,us,Kaila Charles
+969,1996-08-08,Miami (FL),20.0,2020.0,6.333333333333333,momprbe01w,Forward,190.0,us,Beatrice Mompremier
+970,1998-07-11,Rider,29.0,2020.0,5.833333333333333,johnsst01w,Guard,158.0,us,Stella Johnson
+971,1998-08-21,South Carolina,6.0,2020.0,6.166666666666667,harrimi01w,Forward,,us,Mikiah Herbert Harrigan
+972,1996-04-17,Utah,26.0,2019.0,6.333333333333333,huffme01w,Forward,,us,Megan Huff
+973,1996-10-15,Louisville,12.0,2020.0,6.0,jonesja02w,Guard,160.0,us,Jazmine Jones
+974,1998-11-23,Connecticut,9.0,2020.0,6.083333333333333,walkeme01w,Forward,175.0,us,Megan Walker
+975,1997-11-06,Texas Tech,17.0,2020.0,6.416666666666667,brewebr01w,Forward,182.0,us,Brittany Brewer
+976,1998-06-11,Iowa,14.0,2020.0,5.75,doyleka01w,Guard,,us,Kathleen Doyle
+977,1998-04-20,Baylor,3.0,2020.0,6.333333333333333,coxla01w,Forward,,us,Lauren Cox
+978,1998-12-17,Texas,36.0,2020.0,5.666666666666667,suttosu01w,Guard,140.0,,Sug Sutton
+979,,,,,,jenkial01w,,,,Alisia Jenkins
+980,,,,,,smallka01w,,,,Kamiah Smalls
